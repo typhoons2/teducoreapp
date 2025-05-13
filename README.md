@@ -1,0 +1,2 @@
+# teducoreapp
+Tedu Core App
