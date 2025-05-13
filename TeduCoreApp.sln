@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeduCoreApp", "TeduCoreApp\TeduCoreApp.csproj", "{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F8A7CD-80FD-4DA7-86DF-54E56398A78F}
+	EndGlobalSection
+EndGlobal
