@@ -10,3 +10,13 @@ D:\.Net\TeduCoreApp\TeduCoreApp.Application\obj\Debug\net8.0\TeduCoreApp.Applica
 D:\.Net\TeduCoreApp\TeduCoreApp.Application\obj\Debug\net8.0\refint\TeduCoreApp.Application.dll
 D:\.Net\TeduCoreApp\TeduCoreApp.Application\obj\Debug\net8.0\TeduCoreApp.Application.pdb
 D:\.Net\TeduCoreApp\TeduCoreApp.Application\obj\Debug\net8.0\ref\TeduCoreApp.Application.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Data.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Data.EF.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Infrastructure.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Utilities.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Data.EF.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Data.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Utilities.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\bin\Debug\net8.0\TeduCoreApp.Infrastructure.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\obj\Debug\net8.0\TeduCoreApp.Application.csproj.AssemblyReference.cache
+D:\.Net\TeduCoreApp\TeduCoreApp.Application\obj\Debug\net8.0\TeduCore.DCA51953.Up2Date

@@ -10,3 +10,9 @@ D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\net8.0\TeduCoreApp.Data.EF.dll
 D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\net8.0\refint\TeduCoreApp.Data.EF.dll
 D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\net8.0\TeduCoreApp.Data.EF.pdb
 D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\net8.0\ref\TeduCoreApp.Data.EF.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\net8.0\TeduCoreApp.Infrastructure.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\net8.0\TeduCoreApp.Utilities.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\net8.0\TeduCoreApp.Infrastructure.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\bin\Debug\net8.0\TeduCoreApp.Utilities.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\net8.0\TeduCoreApp.Data.EF.csproj.AssemblyReference.cache
+D:\.Net\TeduCoreApp\TeduCoreApp.Data.EF\obj\Debug\net8.0\TeduCore.67397FD2.Up2Date

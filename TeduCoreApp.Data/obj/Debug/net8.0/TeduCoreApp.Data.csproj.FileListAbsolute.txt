@@ -14,3 +14,7 @@ D:\.Net\TeduCoreApp\TeduCoreApp.Data\obj\Debug\net8.0\TeduCoreApp.Data.dll
 D:\.Net\TeduCoreApp\TeduCoreApp.Data\obj\Debug\net8.0\refint\TeduCoreApp.Data.dll
 D:\.Net\TeduCoreApp\TeduCoreApp.Data\obj\Debug\net8.0\TeduCoreApp.Data.pdb
 D:\.Net\TeduCoreApp\TeduCoreApp.Data\obj\Debug\net8.0\ref\TeduCoreApp.Data.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Data\bin\Debug\net8.0\TeduCoreApp.Infrastructure.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Data\bin\Debug\net8.0\TeduCoreApp.Utilities.dll
+D:\.Net\TeduCoreApp\TeduCoreApp.Data\bin\Debug\net8.0\TeduCoreApp.Infrastructure.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp.Data\bin\Debug\net8.0\TeduCoreApp.Utilities.pdb
