@@ -43,7 +43,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TeduCoreApp",
+              "Title": "TeduCoreApp.csproj",
               "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\TeduCoreApp.csproj",
               "RelativeDocumentMoniker": "TeduCoreApp\\TeduCoreApp.csproj",
               "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\TeduCoreApp.csproj",
@@ -63,18 +63,17 @@
               "RelativeToolTip": "TeduCoreApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:49:54.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T08:49:54.049Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeduCoreApp.Utilities",
+              "Title": "TeduCoreApp.Utilities.csproj",
               "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Utilities\\TeduCoreApp.Utilities.csproj",
               "RelativeDocumentMoniker": "TeduCoreApp.Utilities\\TeduCoreApp.Utilities.csproj",
               "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Utilities\\TeduCoreApp.Utilities.csproj",
               "RelativeToolTip": "TeduCoreApp.Utilities\\TeduCoreApp.Utilities.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-14T08:49:51.439Z",
               "EditorCaption": ""
@@ -89,8 +88,7 @@
               "RelativeToolTip": "TeduCoreApp\\Properties\\serviceDependencies.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T08:49:32.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T08:49:32.025Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "TeduCoreApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T08:49:21.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T08:49:21.593Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "TeduCoreApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T08:49:06.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T08:49:06.653Z"
             }
           ]
         },

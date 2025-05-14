@@ -5,11 +5,35 @@
       "TeduCoreApp.Data.EF/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TeduCoreApp.Infrastructure": "1.0.0",
+          "TeduCoreApp.Utilities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/TeduCoreApp.Data.EF.dll": {}
         },
         "runtime": {
           "bin/placeholder/TeduCoreApp.Data.EF.dll": {}
+        }
+      },
+      "TeduCoreApp.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TeduCoreApp.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeduCoreApp.Infrastructure.dll": {}
+        }
+      },
+      "TeduCoreApp.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TeduCoreApp.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeduCoreApp.Utilities.dll": {}
         }
       }
     }
@@ -19,6 +43,16 @@
       "type": "project",
       "path": "../TeduCoreApp.Data.EF/TeduCoreApp.Data.EF.csproj",
       "msbuildProject": "../TeduCoreApp.Data.EF/TeduCoreApp.Data.EF.csproj"
+    },
+    "TeduCoreApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../TeduCoreApp.Infrastructure/TeduCoreApp.Infrastructure.csproj",
+      "msbuildProject": "../TeduCoreApp.Infrastructure/TeduCoreApp.Infrastructure.csproj"
+    },
+    "TeduCoreApp.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../TeduCoreApp.Utilities/TeduCoreApp.Utilities.csproj",
+      "msbuildProject": "../TeduCoreApp.Utilities/TeduCoreApp.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
