@@ -7,14 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TeduCoreApp.Data.EF\TeduCoreApp.Data.EF.csproj" />
+	<ProjectReference Include="..\TeduCoreApp.Infrastructure\TeduCoreApp.Infrastructure.csproj" />
+
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="IRepositories\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Enums\" />
-    <Folder Include="Entities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
   </ItemGroup>
 
 </Project>
