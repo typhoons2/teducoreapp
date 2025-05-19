@@ -9,6 +9,7 @@ using TeduCoreApp.Data.EF;
 using TeduCoreApp.Data.EF.Repositories;
 using TeduCoreApp.Data.Entities;
 using TeduCoreApp.Data.IRepositories;
+using TeduCoreApp.Infrastructure.Interfaces;
 
 
 
@@ -31,8 +32,10 @@ builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile).Assembly)
 
 builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
 builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();
+builder.Services.AddTransient<IUnitOfWork, EFUnitOfWork>();
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages(); //
 
 var app = builder.Build();
 

@@ -11,9 +11,12 @@ namespace TeduCoreApp.Data.EF.Configurations
 {
 	public class ProductTagConfiguration : IEntityTypeConfiguration<ProductTag>
 	{
-		public void Configure(EntityTypeBuilder<ProductTag> entity)
+		public void Configure(EntityTypeBuilder<ProductTag> builder)
 		{
-			entity.Property(e => e.TagId).IsRequired().HasColumnType("varchar(255)");
+			builder.Property(x => x.TagId)
+				.HasMaxLength(50)
+				.IsRequired()
+				.HasColumnType("varchar(50)");
 		}
 	}
 }

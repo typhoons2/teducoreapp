@@ -18,9 +18,8 @@ namespace TeduCoreApp.Data.Entities
         public string AnnouncementId { get; set; }
 
         // Mã người dùng
-        [StringLength(450)]
         [Required]
-        public string UserId { get; set; }
+        public Guid UserId { get; set; }
 
         // Cờ đã đọc thông báo
         public bool? HasRead { get; set; }

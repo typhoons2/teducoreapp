@@ -76,7 +76,11 @@ namespace TeduCoreApp.Data.EF
 			modelBuilder.ApplyConfiguration(new FunctionConfiguration());
 			modelBuilder.ApplyConfiguration(new PageConfiguration());
 			modelBuilder.ApplyConfiguration(new SystemConfigConfiguration());
-			base.OnModelCreating(modelBuilder);
+			modelBuilder.ApplyConfiguration(new AdvertistmentPageConfiguration());
+			modelBuilder.ApplyConfiguration(new AnnouncementConfiguration());
+			modelBuilder.ApplyConfiguration(new AnnouncementUserConfiguration());
+
+			//base.OnModelCreating(modelBuilder);
 
 
 		}

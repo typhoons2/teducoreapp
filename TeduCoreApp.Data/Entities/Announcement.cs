@@ -29,8 +29,7 @@ namespace TeduCoreApp.Data.Entities
         public string Content { set; get; }
 
         // Mã người dùng
-        [StringLength(450)]
-        public string UserId { set; get; }
+        public Guid UserId { set; get; }
 
         // Quan hệ với bảng người dùng
         [ForeignKey("UserId")]

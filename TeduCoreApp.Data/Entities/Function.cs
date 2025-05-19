@@ -41,7 +41,7 @@ namespace TeduCoreApp.Data.Entities
 
 		//ID cha
 		[StringLength(128)]
-		public string ParentId { set; get; }
+		public string? ParentId { set; get; }
 	
 		//Icon CSS
 		[StringLength(128)]

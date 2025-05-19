@@ -14,9 +14,8 @@ namespace TeduCoreApp.Data.Entities
 	public class Permission : DomainEntity<int>
 	{
 		//ID vai trò
-		[StringLength(450)]
 		[Required]
-		public string RoleId { get; set; }
+		public Guid RoleId { get; set; }
 
 		//ID chức năng
 		[StringLength(128)]

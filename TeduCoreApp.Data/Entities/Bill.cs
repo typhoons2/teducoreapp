@@ -12,7 +12,7 @@ namespace TeduCoreApp.Data.Entities
     {
         public Bill() { }
 
-        public Bill(string customerName, string customerAddress, string customerMobile, string customerMessage, BillStatus billStatus, PaymentMethod paymentMethod, Status status, string customerId)
+        public Bill(string customerName, string customerAddress, string customerMobile, string customerMessage, BillStatus billStatus, PaymentMethod paymentMethod, Status status, Guid customerId)
         {
             CustomerName = customerName;
             CustomerAddress = customerAddress;
@@ -24,7 +24,7 @@ namespace TeduCoreApp.Data.Entities
             CustomerId = customerId;
         }
 
-        public Bill(int id, string customerName, string customerAddress, string customerMobile, string customerMessage, BillStatus billStatus, PaymentMethod paymentMethod, Status status, string customerId)
+        public Bill(int id, string customerName, string customerAddress, string customerMobile, string customerMessage, BillStatus billStatus, PaymentMethod paymentMethod, Status status, Guid customerId)
         {
             Id = id;
             CustomerName = customerName;
@@ -70,8 +70,7 @@ namespace TeduCoreApp.Data.Entities
         public Status Status { set; get; } = Status.Active;
 
         // Khóa ngoại đến bảng người dùng
-        [StringLength(450)]
-        public string CustomerId { set; get; }
+        public Guid CustomerId { set; get; }
 
         // Thuộc tính điều hướng đến người dùng
         [ForeignKey("CustomerId")]

@@ -5,12 +5,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TeduCoreApp.Infrastructure.SharedKernel;
+using System.ComponentModel.DataAnnotations;
 
 namespace TeduCoreApp.Data.Entities
 {
 	[Table("AdvertistmentPages")]
     public class AdvertistmentPage : DomainEntity<string>
     {
+        [StringLength(20)]
+        public override string Id { get; set; }
+
         // Tên trang quảng cáo
         public string Name { get; set; }
 

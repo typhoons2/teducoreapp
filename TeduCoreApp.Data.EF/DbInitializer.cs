@@ -49,15 +49,25 @@ namespace TeduCoreApp.Data.EF
 			// 2. Tạo user admin mặc định nếu chưa có user nào
 			if (!_userManager.Users.Any())
 			{
-				await _userManager.CreateAsync(new AppUser()
+				var createResult = await _userManager.CreateAsync(new AppUser()
 				{
 					UserName = "admin",
 					FullName = "Administrator",
 					Email = "admin@gmail.com",
 					Balance = 0,
-				}, "123654$"); // Mật khẩu mặc định
-				var user = await _userManager.FindByNameAsync("admin");
-				await _userManager.AddToRoleAsync(user, "Admin"); // Gán role Admin cho user admin
+					Avatar = "/images/default-avatar.png" // <-- Thêm dòng này, hoặc giá trị mặc định khác
+				}, "Admin123$"); // Mật khẩu mặc định
+
+				if (createResult.Succeeded)
+				{
+					var user = await _userManager.FindByNameAsync("admin");
+					await _userManager.AddToRoleAsync(user, "Admin");
+				}
+				else
+				{
+					// Log lỗi ra để biết vì sao không tạo được user
+					throw new Exception("Cannot create admin user: " + string.Join(", ", createResult.Errors.Select(e => e.Description)));
+				}
 			}
 
 			// 3. Seed các chức năng (Function) nếu chưa có

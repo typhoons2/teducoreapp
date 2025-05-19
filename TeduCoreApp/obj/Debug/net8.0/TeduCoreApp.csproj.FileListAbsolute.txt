@@ -7,6 +7,7 @@ D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\TeduCoreApp.deps.json
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\TeduCoreApp.runtimeconfig.json
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\TeduCoreApp.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\TeduCoreApp.pdb
+D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\AutoMapper.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\Azure.Core.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\Azure.Identity.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\Humanizer.dll
@@ -51,6 +52,7 @@ D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\System.ClientModel.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\System.CodeDom.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -165,12 +167,10 @@ D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.build.T
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TeduCoreApp.props
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TeduCoreApp.props
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets.pack.json
-D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCore.F857795D.Up2Date
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\refint\TeduCoreApp.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.pdb
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.genruntimeconfig.cache
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\ref\TeduCoreApp.dll
-D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\AutoMapper.dll
-D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

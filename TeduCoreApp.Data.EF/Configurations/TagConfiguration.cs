@@ -6,9 +6,9 @@ namespace TeduCoreApp.Data.EF.Configurations
 {
 	public class TagConfiguration : IEntityTypeConfiguration<Tag>
 	{
-		public void Configure(EntityTypeBuilder<Tag> entity)
-		{	
-			entity.Property(c => c.Id)
+		public void Configure(EntityTypeBuilder<Tag> builder)
+		{
+			builder.Property(x => x.Id)
 				.HasMaxLength(50)
 				.IsRequired()
 				.HasColumnType("varchar(50)");
