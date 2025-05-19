@@ -172,3 +172,5 @@ D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\refint\TeduCoreApp.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.pdb
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.genruntimeconfig.cache
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\ref\TeduCoreApp.dll
+D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\AutoMapper.dll
+D:\.Net\TeduCoreApp\TeduCoreApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

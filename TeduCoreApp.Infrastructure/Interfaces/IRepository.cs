@@ -50,6 +50,7 @@ namespace TeduCoreApp.Infrastructure.Interfaces
 		/// Giải phóng tài nguyên
 		/// </summary>
 		void Dispose();
+		
 
 		/// <summary>
 		/// Cập nhật entity

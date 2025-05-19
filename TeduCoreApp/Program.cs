@@ -1,8 +1,16 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using TeduCoreApp.Application.AutoMapper;
+using TeduCoreApp.Application.Implementations;
+using TeduCoreApp.Application.Interfaces;
 using TeduCoreApp.Data;
 using TeduCoreApp.Data.EF;
+using TeduCoreApp.Data.EF.Repositories;
 using TeduCoreApp.Data.Entities;
+using TeduCoreApp.Data.IRepositories;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +26,12 @@ builder.Services.AddIdentity<AppUser, AppRole>()
     .AddDefaultTokenProviders();
 builder.Services.AddScoped<UserManager<AppUser>, UserManager<AppUser>>();
 builder.Services.AddScoped<RoleManager<AppRole>, RoleManager<AppRole>>();
+
+builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile).Assembly);
+
+builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
+builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
