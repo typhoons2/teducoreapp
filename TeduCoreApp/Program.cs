@@ -66,6 +66,20 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
+/*
+ * Cấu trúc URL sau khi thêm route này sẽ là:
+URL thông thường: /Home/Index
+URL có Area: /Admin/Home/Index
+Bây giờ bạn có thể truy cập các controller trong Area Admin thông qua URL có prefix /Admin/. Ví dụ:
+/Admin/Home/Index
+/Admin/Product/List
+/Admin/User/Manage
+ * Route Areas phải được định nghĩa trước route mặc định
+Nếu không, các request đến Area sẽ không được xử lý đúng
+ */
+app.MapControllerRoute(
+    name: "areaRoute",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",
