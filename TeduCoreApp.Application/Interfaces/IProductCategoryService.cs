@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TeduCoreApp.Application.ViewModels.Product;
+
+namespace TeduCoreApp.Application.Interfaces
+{
+	public interface IProductCategoryService
+	{
+		ProductCategoryViewModel Add(ProductCategoryViewModel productCategoryVm);
+		void Update(ProductCategoryViewModel productCategoryVm);
+		void Delete(int id);
+		List<ProductCategoryViewModel> GetAll();
+		List<ProductCategoryViewModel> GetAll(string keyword);
+		List<ProductCategoryViewModel> GetAllByParentId(int parentId);
+		List<ProductCategoryViewModel> UpdateParentId(int sourceId, int targetId, Dictionary<int, int> items);
+		ProductCategoryViewModel GetById(int id);
+		void ReOrder(int sourceId, int targetId);
+		void Save();
+
+	}
+}
