@@ -1,0 +1,24 @@
+{
+  "name": "teducoreapp",
+  "version": "1.0.0",
+  "description": "Tedu Core App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap-daterangepicker": "^3.1.0",
+    "chart": "^0.1.2",
+    "chart.js": "^4.4.9",
+    "fastclick": "^1.0.6",
+    "font-awesome": "^4.7.0",
+    "jquery-sparkline": "^2.4.0",
+    "moment": "^2.30.1",
+    "nprogress": "^0.2.0",
+    "save": "^2.9.0"
+  }
+}

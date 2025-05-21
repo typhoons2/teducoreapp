@@ -1,0 +1,75 @@
+❓ **Câu hỏi:** Vậy npm với libman có sẵn trong đây không?
+
+✅ **Câu trả lời ngắn gọn:**
+
+📦 **npm:**
+- Không có sẵn trong .NET, nhưng bạn có thể cài đặt dễ dàng nếu đã cài Node.js trên máy tính.
+- Khi cài Node.js, npm sẽ tự động được cài theo.
+
+📚 **LibMan (Library Manager):**
+- Được tích hợp sẵn trong Visual Studio (từ phiên bản 2017 trở lên).
+- Nếu bạn dùng Visual Studio, bạn có thể chuột phải vào project > Add > Client-Side Library để sử dụng LibMan mà không cần cài thêm gì.
+
+🔍 **Cách kiểm tra/cài đặt:**
+
+1️⃣ **npm:**
+- Mở terminal (Command Prompt hoặc PowerShell)
+- Gõ: `npm -v`
+- Nếu có số phiên bản hiện ra, nghĩa là đã cài. Nếu báo lỗi, bạn cần cài Node.js từ nodejs.org.
+
+2️⃣ **LibMan:**
+- Nếu bạn dùng Visual Studio, chỉ cần chuột phải vào project > Add > Client-Side Library.
+- Nếu không thấy, hãy cập nhật Visual Studio lên bản mới nhất.
+
+📝 **Tóm lại:**
+- npm: Không đi kèm .NET, phải cài Node.js.
+- LibMan: Có sẵn trong Visual Studio (không cần cài thêm nếu dùng Visual Studio).
+
+❓ **Bạn đang dùng Visual Studio hay chỉ dùng dòng lệnh?** Nếu cần hướng dẫn cài đặt hoặc sử dụng npm/LibMan, bạn cứ hỏi nhé!
+
+
+hướng dẫn cài đặt trong npm 
+Tôi sẽ hướng dẫn bạn cách cài đặt các thư viện front-end (Bootstrap, jQuery, v.v.) bằng npm cho dự án ASP.NET Core.
+Bước 1: Cài đặt Node.js và npm
+Truy cập https://nodejs.org/ và tải về bản LTS.
+Cài đặt xong, mở terminal (Command Prompt hoặc PowerShell) và kiểm tra:
+Apply to questions.tx...
+Nếu hiện ra số phiên bản là đã cài thành công.
+Bước 2: Khởi tạo npm trong thư mục dự án
+Mở terminal tại thư mục gốc dự án (nơi có file .csproj).
+Chạy lệnh:
+  npm init -y
+Apply to questions.tx...
+Lệnh này sẽ tạo file package.json mặc định.
+Bước 3: Cài đặt các thư viện cần thiết
+Chạy lệnh sau để cài các thư viện mới nhất (hoặc phiên bản bạn muốn):
+Apply to questions.tx...
+
+  npm install bootstrap@5.3.2 jquery@3.7.1 jquery-validation@1.19.5 jquery-validation-unobtrusive@3.2.12 gentellela@1.4.0 --save
+
+
+  npm install bootstrap jquery jquery-validation jquery-validation-unobtrusive gentellela --save
+Nếu không cần thư viện nào, bạn có thể bỏ bớt tên ra khỏi lệnh.
+Bước 4: Sử dụng các file đã cài
+Sau khi cài, các thư viện sẽ nằm trong thư mục node_modules.
+Bạn có thể copy file cần thiết (CSS, JS) từ node_modules vào thư mục wwwroot/lib hoặc dùng các công cụ như Gulp, Webpack để tự động copy.
+Thêm đường dẫn file JS/CSS vào layout hoặc view của bạn, ví dụ:
+Apply to questions.tx...
+Bước 5: (Tùy chọn) Tự động copy file sang wwwroot
+Nếu muốn tự động copy file từ node_modules sang wwwroot/lib, bạn có thể dùng script npm hoặc các tool như copyfiles.
+Ví dụ:
+Apply to questions.tx...
+Thêm vào package.json:
+Apply to questions.tx...
+Sau đó chạy:
+Apply to questions.tx...
+Tóm lại
+Cài Node.js (npm sẽ có sẵn)
+npm init -y
+npm install ...
+Copy file cần thiết vào wwwroot/lib và tham chiếu trong view/layout
+
+
+
+Tải chart.js 
+npm install chart.js

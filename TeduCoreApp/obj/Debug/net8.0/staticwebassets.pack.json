@@ -2,7 +2,87 @@
   "Files": [
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TeduCoreApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TeduCoreApp.bq2ih5dere.bundle.scp.css"
+      "PackagePath": "staticwebassets\\TeduCoreApp.cte1dnxp64.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\css\\custom.css",
+      "PackagePath": "staticwebassets\\admin-side\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\css\\custom.min.css",
+      "PackagePath": "staticwebassets\\admin-side\\css\\custom.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\american-express.png",
+      "PackagePath": "staticwebassets\\admin-side\\images\\american-express.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\cropper.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\cropper.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin-side\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\img.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\inbox.png",
+      "PackagePath": "staticwebassets\\admin-side\\images\\inbox.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin-side\\images\\mastercard.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\media.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\media.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\admin-side\\images\\paypal.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\picture.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\picture.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\admin-side\\images\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\user.png",
+      "PackagePath": "staticwebassets\\admin-side\\images\\user.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\visa.png",
+      "PackagePath": "staticwebassets\\admin-side\\images\\visa.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin-side\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\admin-side\\js\\custom.min.js"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\css\\site.css",
@@ -15,6 +95,1134 @@
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\README.md",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\README.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\enums.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\enums.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\enums.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\enums.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\enums.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper-base.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper-base.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper-base.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper-base.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper-base.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper-base.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper-lite.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper-lite.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper-lite.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper-lite.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper-lite.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper-lite.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\cjs\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\cjs\\popper.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\createPopper.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\createPopper.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\contains.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\contains.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getBoundingClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getBoundingClientRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getClippingRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getClippingRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getCompositeRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getCompositeRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getComputedStyle.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getComputedStyle.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentElement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentElement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getDocumentRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getHTMLElementScroll.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getHTMLElementScroll.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getLayoutRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getLayoutRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeName.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeName.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeScroll.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getNodeScroll.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getOffsetParent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getOffsetParent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getParentNode.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getParentNode.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getScrollParent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getScrollParent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getViewportRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getViewportRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScroll.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScroll.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScrollBarX.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\getWindowScrollBarX.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\instanceOf.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\instanceOf.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\isLayoutViewport.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\isLayoutViewport.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\isScrollParent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\isScrollParent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\isTableElement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\isTableElement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\listScrollParents.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\dom-utils\\listScrollParents.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\enums.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\applyStyles.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\applyStyles.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\arrow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\arrow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\computeStyles.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\computeStyles.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\eventListeners.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\eventListeners.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\flip.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\flip.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\hide.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\hide.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\index.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\offset.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\popperOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\popperOffsets.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\preventOverflow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\modifiers\\preventOverflow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\popper-base.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\popper-base.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\popper-lite.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\popper-lite.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\popper.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\types.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\types.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\computeAutoPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\computeAutoPlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\computeOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\computeOffsets.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\debounce.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\detectOverflow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\detectOverflow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\expandToHashMap.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\expandToHashMap.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getAltAxis.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getAltAxis.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getAltLen.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getAltLen.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getBasePlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getBasePlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getFreshSideObject.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getFreshSideObject.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getMainAxisFromPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getMainAxisFromPlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getOppositePlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getOppositePlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getOppositeVariationPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getOppositeVariationPlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\getVariation.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\getVariation.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\math.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\math.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\mergeByName.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\mergeByName.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\mergePaddingObject.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\mergePaddingObject.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\orderModifiers.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\orderModifiers.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\rectToClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\rectToClientRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\uniqueBy.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\uniqueBy.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\userAgent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\userAgent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\esm\\utils\\within.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\esm\\utils\\within.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\enums.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\enums.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\enums.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\enums.min.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\enums.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\enums.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\enums.min.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\enums.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\enums.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-base.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-base.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-base.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-base.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-base.min.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-base.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-base.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-base.min.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-base.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-base.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.min.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.min.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper-lite.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper.min.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper.min.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\dist\\umd\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\dist\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\createPopper.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\createPopper.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\createPopper.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\createPopper.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\createPopper.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\createPopper.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\contains.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\contains.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\contains.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\contains.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\contains.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\contains.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getBoundingClientRect.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getBoundingClientRect.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getBoundingClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getBoundingClientRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getBoundingClientRect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getBoundingClientRect.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getClippingRect.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getClippingRect.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getClippingRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getClippingRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getClippingRect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getClippingRect.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getCompositeRect.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getCompositeRect.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getCompositeRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getCompositeRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getCompositeRect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getCompositeRect.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getComputedStyle.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getComputedStyle.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getComputedStyle.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getComputedStyle.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getComputedStyle.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getComputedStyle.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentElement.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentElement.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentElement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentElement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentElement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentElement.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentRect.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentRect.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentRect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getDocumentRect.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getHTMLElementScroll.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getHTMLElementScroll.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getHTMLElementScroll.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getHTMLElementScroll.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getHTMLElementScroll.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getHTMLElementScroll.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getLayoutRect.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getLayoutRect.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getLayoutRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getLayoutRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getLayoutRect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getLayoutRect.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeName.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeName.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeName.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeName.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeName.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeName.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeScroll.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeScroll.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeScroll.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeScroll.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeScroll.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getNodeScroll.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getOffsetParent.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getOffsetParent.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getOffsetParent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getOffsetParent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getOffsetParent.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getOffsetParent.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getParentNode.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getParentNode.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getParentNode.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getParentNode.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getParentNode.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getParentNode.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getScrollParent.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getScrollParent.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getScrollParent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getScrollParent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getScrollParent.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getScrollParent.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getViewportRect.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getViewportRect.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getViewportRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getViewportRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getViewportRect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getViewportRect.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindow.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindow.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindow.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindow.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScroll.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScroll.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScroll.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScroll.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScroll.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScroll.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScrollBarX.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScrollBarX.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScrollBarX.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScrollBarX.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScrollBarX.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\getWindowScrollBarX.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\instanceOf.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\instanceOf.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\instanceOf.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\instanceOf.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\instanceOf.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\instanceOf.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isLayoutViewport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isLayoutViewport.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isLayoutViewport.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isLayoutViewport.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isLayoutViewport.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isLayoutViewport.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isScrollParent.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isScrollParent.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isScrollParent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isScrollParent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isScrollParent.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isScrollParent.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isTableElement.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isTableElement.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isTableElement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isTableElement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\isTableElement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\isTableElement.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\listScrollParents.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\listScrollParents.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\listScrollParents.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\listScrollParents.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\dom-utils\\listScrollParents.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\dom-utils\\listScrollParents.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\enums.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\enums.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\enums.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\enums.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\enums.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\index.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\index.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\index.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\index.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\applyStyles.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\applyStyles.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\applyStyles.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\applyStyles.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\applyStyles.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\applyStyles.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\arrow.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\arrow.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\arrow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\arrow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\arrow.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\arrow.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\computeStyles.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\computeStyles.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\computeStyles.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\computeStyles.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\computeStyles.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\computeStyles.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\eventListeners.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\eventListeners.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\eventListeners.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\eventListeners.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\eventListeners.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\eventListeners.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\flip.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\flip.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\flip.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\flip.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\flip.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\flip.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\hide.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\hide.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\hide.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\hide.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\hide.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\hide.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\index.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\index.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\index.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\offset.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\offset.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\offset.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\offset.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\offset.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\popperOffsets.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\popperOffsets.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\popperOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\popperOffsets.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\popperOffsets.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\popperOffsets.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\preventOverflow.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\preventOverflow.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\preventOverflow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\preventOverflow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\modifiers\\preventOverflow.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\modifiers\\preventOverflow.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper-base.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper-base.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper-base.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper-base.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper-base.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper-base.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper-lite.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper-lite.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper-lite.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper-lite.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper-lite.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper-lite.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\popper.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\popper.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\types.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\types.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\types.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\types.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\types.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\types.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\computeAutoPlacement.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\computeAutoPlacement.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\computeAutoPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\computeAutoPlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\computeAutoPlacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\computeAutoPlacement.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\computeOffsets.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\computeOffsets.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\computeOffsets.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\computeOffsets.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\computeOffsets.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\computeOffsets.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\debounce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\debounce.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\debounce.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\debounce.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\debounce.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\detectOverflow.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\detectOverflow.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\detectOverflow.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\detectOverflow.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\detectOverflow.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\detectOverflow.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\expandToHashMap.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\expandToHashMap.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\expandToHashMap.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\expandToHashMap.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\expandToHashMap.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\expandToHashMap.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getAltAxis.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getAltAxis.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getAltAxis.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getAltAxis.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getAltAxis.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getAltAxis.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getAltLen.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getAltLen.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getAltLen.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getAltLen.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getAltLen.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getAltLen.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getBasePlacement.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getBasePlacement.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getBasePlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getBasePlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getBasePlacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getBasePlacement.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getFreshSideObject.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getFreshSideObject.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getFreshSideObject.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getFreshSideObject.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getFreshSideObject.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getFreshSideObject.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getMainAxisFromPlacement.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getMainAxisFromPlacement.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getMainAxisFromPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getMainAxisFromPlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getMainAxisFromPlacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getMainAxisFromPlacement.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getOppositePlacement.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getOppositePlacement.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getOppositePlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getOppositePlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getOppositePlacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getOppositePlacement.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getOppositeVariationPlacement.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getOppositeVariationPlacement.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getOppositeVariationPlacement.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getOppositeVariationPlacement.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getOppositeVariationPlacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getOppositeVariationPlacement.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getVariation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getVariation.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getVariation.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getVariation.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\getVariation.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\getVariation.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\math.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\math.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\math.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\math.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\math.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\math.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\mergeByName.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\mergeByName.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\mergeByName.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\mergeByName.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\mergeByName.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\mergeByName.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\mergePaddingObject.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\mergePaddingObject.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\mergePaddingObject.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\mergePaddingObject.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\mergePaddingObject.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\mergePaddingObject.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\orderModifiers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\orderModifiers.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\orderModifiers.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\orderModifiers.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\orderModifiers.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\orderModifiers.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\rectToClientRect.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\rectToClientRect.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\rectToClientRect.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\rectToClientRect.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\rectToClientRect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\rectToClientRect.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\uniqueBy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\uniqueBy.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\uniqueBy.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\uniqueBy.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\uniqueBy.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\uniqueBy.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\userAgent.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\userAgent.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\userAgent.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\userAgent.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\userAgent.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\userAgent.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\within.d.ts",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\within.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\within.js",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\within.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\lib\\utils\\within.js.flow",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\lib\\utils\\within.js.flow"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\@popperjs\\core\\package.json",
+      "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\package.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.js"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -197,6 +1405,570 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\README.md",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\README.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\auto\\auto.cjs",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\auto\\auto.cjs"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\auto\\auto.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\auto\\auto.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\auto\\auto.js",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\auto\\auto.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\auto\\package.json",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\auto\\package.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chart.cjs",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chart.cjs"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chart.cjs.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chart.js",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chart.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chart.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chart.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chart.umd.js",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chart.umd.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chart.umd.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chart.umd.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chart.umd.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chunks\\helpers.dataset.cjs",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chunks\\helpers.dataset.cjs"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chunks\\helpers.dataset.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chunks\\helpers.dataset.cjs.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chunks\\helpers.dataset.js",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chunks\\helpers.dataset.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\chunks\\helpers.dataset.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\chunks\\helpers.dataset.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\core\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\elements\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers.cjs",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers.cjs"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers.cjs.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers.js",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.dataset.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.dataset.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\index.umd.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\platform\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types\\animation.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types\\basic.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types\\color.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types\\index.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types\\layout.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\dist\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\types\\utils.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\helpers\\helpers.cjs",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\helpers\\helpers.cjs"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\helpers\\helpers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\helpers\\helpers.d.ts"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\helpers\\helpers.js",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\helpers\\helpers.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\helpers\\package.json",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\helpers\\package.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart.js\\package.json",
+      "PackagePath": "staticwebassets\\lib\\chart.js\\package.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart\\chart.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\chart\\chart.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\fastclick\\fastclick.js",
+      "PackagePath": "staticwebassets\\lib\\fastclick\\fastclick.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\css\\custom.css",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\css\\custom.min.css",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\css\\custom.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\images\\back_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\images\\back_disabled.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\images\\back_enabled.png",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\images\\back_enabled.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\images\\back_enabled_hover.png",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\images\\back_enabled_hover.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\images\\forward_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\images\\forward_disabled.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\images\\forward_enabled.png",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\images\\forward_enabled.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\images\\forward_enabled_hover.png",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\images\\forward_enabled_hover.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\js\\custom.js",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\lib\\gentellela\\js\\custom.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\jquery-sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
@@ -243,6 +2015,66 @@
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\.npmignore",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\.npmignore"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\.travis.yml"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\History.md",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\History.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\License.md",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\License.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\Notes.md",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\Notes.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\Readme.md",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\Readme.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\bower.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\component.json",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\component.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\nprogress.css",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\nprogress.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\nprogress.js",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\nprogress.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\package.json",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\package.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\test\\component.html",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\test\\component.html"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\test\\test.js",
+      "PackagePath": "staticwebassets\\lib\\nprogress\\test\\test.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TeduCoreApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
