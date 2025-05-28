@@ -17,8 +17,8 @@ DANH TỪ 1
 3. Danh từ trừu tượng
    - Cảm xúc (happiness, gratitude)
    - Lý tưởng (ideal)
-   - Khái niệm
-   - Phẩm chất
+   - Khái niệm (concept, idea, theory)
+   - Phẩm chất (quality, virtue, character)
 
 4. Danh từ tập hợp
    - Nhóm người, động vật, đồ vật... (family, band, crew, ...)
@@ -32,12 +32,12 @@ DANH TỪ 2
        * .books, cars, ...
        * .watches, wishes, ...
      + Các trường hợp khác:
-       * Tận cùng bằng phụ âm + Y → IES: baby → babies
-       * Tận cùng bằng nguyên âm + Y → S: key → keys
+       * Tận cùng bằng phụ âm (b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, z) + Y → IES: baby → babies
+       * Tận cùng bằng nguyên âm (a, e, i, o, u) + Y → S: key → keys
        * Tận cùng bằng F/FE → VES: knife → knives
        * Tận cùng bằng EF/IEF/IFF/OOF → S: chef → chefs
-       * Một số từ có dạng số ít và số nhiều giống nhau: deer → deer
-       * 9 trường hợp bất quy tắc: man → men, ...
+       * Một số từ có dạng số ít và số nhiều giống nhau: deer → deer, sheep → sheep, fish → fish, aircraft → aircraft, species → species, series → series, means → means, crossroads → crossroads, headquarters → headquarters, barracks → barracks, works → works, species → species, series → series, means → means, crossroads → crossroads, headquarters → headquarters, barracks → barracks, works → works
+       * 9 trường hợp bất quy tắc: man → men, woman → women, child → children, foot → feet, tooth → teeth, mouse → mice, goose → geese, louse → lice, ox → oxen
 
 2. Danh từ không đếm được
    - Danh từ chỉ tập hợp bao gồm nhiều thứ giống nhau: furniture, luggage, equipment, ...
@@ -106,11 +106,25 @@ SỞ HỮU CÁCH
 BÀI TẬP ÔN LUYỆN
 
 1. Phân loại các danh từ sau vào đúng nhóm:
-   happiness, Tom, team, dog, Vietnam, idea, family, teacher, tree, picnic mat, bird, building, Monday, January, Japan, Korean, Valentine's Day, gratitude, ideal, band, crew
+   , , , , , , , , , , , , , ,  , , , , , , 
 
+danh từ chung dog, teacher, tree ,picnic mat, bird, building
+rieng Tom Vietnam Monday January Japan Korean Valentine's Day
+trừu tượng happiness idea  gratitude ideal
+tập hợp team family band crew
+
+
+
+1. Phân loại các danh từ:
+   - Danh từ chung: dog, teacher, tree, picnic mat, bird, building
+   - Danh từ riêng: Tom, Vietnam, Monday, January, Japan, Korean, Valentine's Day
+   - Danh từ trừu tượng: happiness, idea, gratitude, ideal
+   - Danh từ tập hợp: team, family, band, crew
    
 2. Chia số nhiều các danh từ sau:
    book, watch, knife, baby, key, chef, deer, man, car, wish
+books, watches, knives, babies, keys, chefs, deers, men, cars, wishes
+   - books, watches, knives, babies, keys, chefs, deer, men, cars, wishes
 
 3. Chọn đúng lượng từ hoặc từ chỉ định:
    a) ... book (this/these)
@@ -138,14 +152,8 @@ BÀI TẬP ÔN LUYỆN
 
 ĐÁP ÁN
 
-1. Phân loại các danh từ:
-   - Danh từ chung: dog, teacher, tree, picnic mat, bird, building
-   - Danh từ riêng: Tom, Vietnam, Monday, January, Japan, Korean, Valentine's Day
-   - Danh từ trừu tượng: happiness, idea, gratitude, ideal
-   - Danh từ tập hợp: team, family, band, crew
 
 2. Chia số nhiều:
-   - books, watches, knives, babies, keys, chefs, deer, men, cars, wishes
 
 3. Chọn đúng lượng từ hoặc từ chỉ định:
    a) this book

@@ -1,5 +1,4 @@
 wwwroot\admin-side\css\custom.css
-wwwroot\admin-side\css\custom.min.css
 wwwroot\admin-side\images\american-express.png
 wwwroot\admin-side\images\cropper.jpg
 wwwroot\admin-side\images\favicon.ico
@@ -17,7 +16,6 @@ wwwroot\admin-side\images\prod-5.jpg
 wwwroot\admin-side\images\user.png
 wwwroot\admin-side\images\visa.png
 wwwroot\admin-side\js\custom.js
-wwwroot\admin-side\js\custom.min.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

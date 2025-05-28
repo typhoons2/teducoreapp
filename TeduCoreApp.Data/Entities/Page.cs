@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
@@ -16,7 +16,7 @@ namespace TeduCoreApp.Data.Entities
 	public class Page : DomainEntity<int>, ISwitchable
 	{
 		//Tên
-		[Required]
+		[Required]	
 		[MaxLength(256)]
 		public string Name { set; get; }
 

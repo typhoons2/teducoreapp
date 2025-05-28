@@ -3,7 +3,6 @@
   font-family: 'Glyphicons Halflings';
   src: url("https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.eot");
   src: url("https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.woff") format("woff"), url("https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("https://netdna.bootstrapcdn.com/bootstrap/3.0.0/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular") format("svg"); }
-  
 
 .glyphicon {
   position: relative;
@@ -1978,7 +1977,7 @@ table.display thead th:active, table.display thead td:active {
   clear: both; }
 
 .dataTables_scrollBody {
-  margin-top: -1px;
+  *margin-top: -1px;
   -webkit-overflow-scrolling: touch; }
 
 .top .dataTables_info {
@@ -4972,67 +4971,3 @@ ul.notifications {
 
 .calendar-exibit .calendar-table {
   padding: 0 0 4px 0; }
-
-/* Style cho ảnh profile trong navbar */
-.nav-link.user-profile img {
-    width: 29px;
-    height: 29px;
-    border-radius: 50%;
-    margin-right: 5px;
-    object-fit: cover;
-}
-
-/* Style cho dropdown menu */
-.navbar-nav > li.dropdown {
-    position: relative;
-}
-
-/* Căn chỉnh badge */
-.badge {
-    position: absolute;
-    top: 8px;
-    right: 0;
-}
-
-/* Style cho dropdown items */
-.dropdown-menu {
-    margin: 0;
-    padding: 5px 0;
-    border-radius: 4px;
-}
-
-/* Style cho user profile dropdown */
-.dropdown-usermenu {
-    min-width: 180px;
-}
-
-/* Style cho message list */
-.msg_list {
-    min-width: 300px;
-}
-
-.msg_list .image img {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-right: 10px;
-}
-
-/* Căn chỉnh các phần tử trong message */
-.msg_list li a {
-    display: flex;
-    padding: 10px;
-    align-items: center;
-}
-
-.msg_list .time {
-    font-size: 11px;
-    font-style: italic;
-    color: #999;
-}
-
-.msg_list .message {
-    font-size: 12px;
-    color: #666;
-}

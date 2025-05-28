@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeduCoreApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a363878032e91ecb4e96e2168455740fa3cb47e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a21fb919e61027e9bae3bc5679010cadd2c13380")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeduCoreApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeduCoreApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\admin-side\\css\\custom.css"
     },
     {
-      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\css\\custom.min.css",
-      "PackagePath": "staticwebassets\\admin-side\\css\\custom.min.css"
-    },
-    {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\american-express.png",
       "PackagePath": "staticwebassets\\admin-side\\images\\american-express.png"
     },
@@ -79,10 +75,6 @@
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.js",
       "PackagePath": "staticwebassets\\admin-side\\js\\custom.js"
-    },
-    {
-      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.min.js",
-      "PackagePath": "staticwebassets\\admin-side\\js\\custom.min.js"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\css\\site.css",

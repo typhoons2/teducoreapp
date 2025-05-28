@@ -73,3 +73,13 @@ Copy file cần thiết vào wwwroot/lib và tham chiếu trong view/layout
 
 Tải chart.js 
 npm install chart.js
+
+
+
+Cannot use import statement outside a module ? 
+<script type="module" src="~/lib/chart/chart.js"></script>
+
+
+Xóa thủ công file lock nếu quá trình Git bị treo/crash:
+
+rm -f .git/index.lock

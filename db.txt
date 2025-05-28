@@ -36,6 +36,7 @@ Bill
 	CustomerEmail,
 	BillDate,
 	Status
+	
 BillDetail
 	BillId,
 	ProductId,
