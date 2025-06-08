@@ -163,7 +163,7 @@
               "target": "Package",
               "version": "[8.0.15, )"
             },
-            "Microsoft.Extensions.Configuration": {
+            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[8.0.0, )"
             }

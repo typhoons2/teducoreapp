@@ -56,7 +56,7 @@ namespace TeduCoreApp.Data.EF
 					Email = "admin@gmail.com",
 					Balance = 0,
 					Avatar = "/images/default-avatar.png" // <-- Thêm dòng này, hoặc giá trị mặc định khác
-				}, "Admin123$"); // Mật khẩu mặc định
+				}, "Admin123$!@#"); // Mật khẩu mặc định
 
 				if (createResult.Succeeded)
 				{

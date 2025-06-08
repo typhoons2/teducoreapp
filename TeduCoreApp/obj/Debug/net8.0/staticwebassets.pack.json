@@ -77,6 +77,22 @@
       "PackagePath": "staticwebassets\\admin-side\\js\\custom.js"
     },
     {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
+      "PackagePath": "staticwebassets\\app\\controllers\\product\\index.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\constants.js",
+      "PackagePath": "staticwebassets\\app\\shared\\constants.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\messages.js",
+      "PackagePath": "staticwebassets\\app\\shared\\messages.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
+      "PackagePath": "staticwebassets\\app\\shared\\tedu.js"
+    },
+    {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

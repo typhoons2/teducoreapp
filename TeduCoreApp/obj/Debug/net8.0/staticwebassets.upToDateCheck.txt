@@ -16,6 +16,10 @@ wwwroot\admin-side\images\prod-5.jpg
 wwwroot\admin-side\images\user.png
 wwwroot\admin-side\images\visa.png
 wwwroot\admin-side\js\custom.js
+wwwroot\app\controllers\product\index.js
+wwwroot\app\shared\constants.js
+wwwroot\app\shared\messages.js
+wwwroot\app\shared\tedu.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

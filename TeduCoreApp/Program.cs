@@ -19,6 +19,7 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString, o => o.MigrationsAssembly("TeduCoreApp.Data.EF")));
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddTransient<DbInitializer>();
 
@@ -29,6 +30,9 @@ builder.Services.AddScoped<UserManager<AppUser>, UserManager<AppUser>>();
 builder.Services.AddScoped<RoleManager<AppRole>, RoleManager<AppRole>>();
 
 builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile).Assembly);
+//builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile));
+//builder.Services.AddAutoMapper(typeof(DomainToViewModelMappingProfile));    
+
 
 builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
 builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();

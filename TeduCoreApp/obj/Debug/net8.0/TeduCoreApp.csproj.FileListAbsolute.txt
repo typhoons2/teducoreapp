@@ -155,6 +155,7 @@ D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.MvcApplicationParts
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.RazorAssemblyInfo.cache
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.RazorAssemblyInfo.cs
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.sourcelink.json
+D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\scopedcss\bundle\TeduCoreApp.styles.css
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\scopedcss\projectbundle\TeduCoreApp.bundle.scp.css
@@ -174,4 +175,3 @@ D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\refint\TeduCoreApp.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.pdb
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.genruntimeconfig.cache
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\ref\TeduCoreApp.dll
-D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
