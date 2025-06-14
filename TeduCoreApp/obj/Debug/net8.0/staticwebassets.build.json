@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kASI7EVNjH8VkQM5gNaDzUq1gQ9XJY0MzZl8Ts5nOYU=",
+  "Hash": "BurJJPTpchYc+vYyv540EaWizEMqVJUajNRCbZW3knM=",
   "Source": "TeduCoreApp",
   "BasePath": "_content/TeduCoreApp",
   "Mode": "Default",
@@ -1340,6 +1340,27 @@
       "OriginalItemSpec": "wwwroot\\admin-side\\css\\custom.css"
     },
     {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\css\\custom.min.css",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "admin-side/css/custom.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j5xtmkrt7s",
+      "Integrity": "F+PYvbLVRFga107WMJx4jUcxuC84cATGb/j/FKVwBNs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin-side\\css\\custom.min.css"
+    },
+    {
       "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\american-express.png",
       "SourceId": "TeduCoreApp",
       "SourceType": "Discovered",
@@ -1690,11 +1711,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rt9ljtndhs",
-      "Integrity": "/1t/VE34Z5IGdHx9q5p6VoosRcz6L2n1UGfzWHOUGJc=",
+      "Fingerprint": "1bgf7twc2d",
+      "Integrity": "swRKJGYhkMelRnO0hc5W4T3gHjD1tzzcmL4+YiArjis=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin-side\\js\\custom.js"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.min.js",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "admin-side/js/custom.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ex2iwvsg2",
+      "Integrity": "j9dNEkO3Zx0tjfJP3W27Xgay2zL8Wg6hWt+EGcQFTP0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin-side\\js\\custom.min.js"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "app/controllers/login/index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0pyx0y2c9y",
+      "Integrity": "HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app\\controllers\\login\\index.js"
     },
     {
       "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
@@ -1774,8 +1837,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5ucxslc4de",
-      "Integrity": "w3B4tD5Xs/3gBdkeIUWVVhL25PVKokhxdrav+uZGslA=",
+      "Fingerprint": "zkq6qaf0fb",
+      "Integrity": "E342fH6xaX5Xn5fu2EhFuXhwCP0+0256J16q6GD8it8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app\\shared\\tedu.js"
@@ -7724,6 +7787,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\@popperjs\\core\\README.md"
     },
     {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\animate.css\\animate.min.css",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/animate.css/animate.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y6bmn5mofz",
+      "Integrity": "1hIhSlowg4vqaFZ/bikPMfEGwSgM0FtIs7mx1PADHCk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\animate.css\\animate.min.css"
+    },
+    {
       "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TeduCoreApp",
       "SourceType": "Discovered",
@@ -11833,8 +11917,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b7iojwaux1",
-      "Integrity": "JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=",
+      "Fingerprint": "jg2twouj2p",
+      "Integrity": "TS7vYJ0aEJuIOZtmZSbrJwJVNSGQ1zV7YxoAUC9wZ4w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
@@ -11964,6 +12048,342 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\moment\\moment.min.js"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\.gitignore",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/#[.{fingerprint}]?.gitignore",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a75jet1f1o",
+      "Integrity": "FtMORGIYn7FN1hG9twjFEGMMV2ofNbk4PomkNS2jbJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\.gitignore"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\bower.json",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/bower#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y2qufkse9u",
+      "Integrity": "il7pHctd9hxxoCTGlc1vrF+gXcOyckz26QvlE0vJ8ds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\bower.json"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\CHANGES.md",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/CHANGES#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d006746wq6",
+      "Integrity": "jZxWIIg+2aNkPTNvd4rDnKWbC/n/oIMm3Nt6G6Yldvc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\CHANGES.md"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\notify.js",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/dist/notify#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "snmqrc3w19",
+      "Integrity": "yC+/SfOuhW7O1ut5331xstoqC9LjWcJqfn25Bj5upUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\dist\\notify.js"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.css",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/dist/styles/metro/notify-metro#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jf16d4zt80",
+      "Integrity": "v3mQGhTBgiQ33BTFlC/Ude5iEPSmu7UOqpn4CassYbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.css"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.js",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/dist/styles/metro/notify-metro#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wdpnohorx1",
+      "Integrity": "RBzcn2LeBdpnOBL599/+bFZ31rIX8WGsBqYmirYLip8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.js"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\classes.html",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/examples/classes#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ukz5hg902",
+      "Integrity": "w2KIsyBHPayQYRrgnTdLLIoOUWnRQCzGdrJjugsIHxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\examples\\classes.html"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\images\\Mail.png",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/examples/images/Mail#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ivkpmzcj2n",
+      "Integrity": "EggU0CjwNEbRSS3Od7T287PFyOV3S37zQop/fZsAYj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\examples\\images\\Mail.png"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\inlines.html",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/examples/inlines#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j7i5gdfqox",
+      "Integrity": "kUAHDRLzDrn9oO/elswdEXchcZ0fuls+p0q1bgS3HrU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\examples\\inlines.html"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\metro.html",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/examples/metro#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k1ufc51d8d",
+      "Integrity": "2FUIVyGpmzgw9trWV8WsF3miRvK/kLbk0US2I+xHH9U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\examples\\metro.html"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\multi-text.html",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/examples/multi-text#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y79jeua01n",
+      "Integrity": "blsXQ2MM6VNFPutkVyMwbn5vu5LX8XljfzKY+VA/W7Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\examples\\multi-text.html"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\position.html",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/examples/position#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2eio3oyh96",
+      "Integrity": "GhbRKppTs9h88GWJbb+MVZPH7NM+Xhi5qEeRLj1ZgzM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\examples\\position.html"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\LICENSE",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4lvw2z7hrd",
+      "Integrity": "6MXZ2Hbxn6wnp1WBnvpb1SCoAnqgTahDiUDXuMMt/OQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\LICENSE"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\notify.jquery.json",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/notify.jquery#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1y6yvappuy",
+      "Integrity": "qQ4wuoM0Mhw0afz5WDzzMEy28O/MVJsJ2tsGZwauXkc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\notify.jquery.json"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\package.json",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/package#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ljfqqna0p",
+      "Integrity": "Gf0I9xMMCz6TFxa4SclXahtRFigs6wjykI7WjSu/yhM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\package.json"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\README.md",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/notifyjs-master/README#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1g9zkk4yi5",
+      "Integrity": "b8Ha1JijCN7455QFKnnHn4XCYh0+sh2n/kWmLRiAriw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\notifyjs-master\\README.md"
     },
     {
       "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\.npmignore",
@@ -12274,6 +12694,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-sNjlTxmR1xA5QTAJRyS/cO4oUD+3nFV6jsopVrduTNI="
+        }
+      ]
+    },
+    {
+      "Route": "admin-side/css/custom.min.css",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\css\\custom.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F+PYvbLVRFga107WMJx4jUcxuC84cATGb/j/FKVwBNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Feb 2023 22:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F+PYvbLVRFga107WMJx4jUcxuC84cATGb/j/FKVwBNs="
+        }
+      ]
+    },
+    {
+      "Route": "admin-side/css/custom.min.j5xtmkrt7s.css",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\css\\custom.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F+PYvbLVRFga107WMJx4jUcxuC84cATGb/j/FKVwBNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Feb 2023 22:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5xtmkrt7s"
+        },
+        {
+          "Name": "label",
+          "Value": "admin-side/css/custom.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F+PYvbLVRFga107WMJx4jUcxuC84cATGb/j/FKVwBNs="
         }
       ]
     },
@@ -13635,6 +14137,51 @@
       ]
     },
     {
+      "Route": "admin-side/js/custom.1bgf7twc2d.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155565"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"swRKJGYhkMelRnO0hc5W4T3gHjD1tzzcmL4+YiArjis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 06:27:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1bgf7twc2d"
+        },
+        {
+          "Name": "label",
+          "Value": "admin-side/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-swRKJGYhkMelRnO0hc5W4T3gHjD1tzzcmL4+YiArjis="
+        }
+      ]
+    },
+    {
       "Route": "admin-side/js/custom.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.js",
       "Selectors": [],
@@ -13645,7 +14192,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "154158"
+          "Value": "155565"
         },
         {
           "Name": "Content-Type",
@@ -13653,11 +14200,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/1t/VE34Z5IGdHx9q5p6VoosRcz6L2n1UGfzWHOUGJc=\""
+          "Value": "\"swRKJGYhkMelRnO0hc5W4T3gHjD1tzzcmL4+YiArjis=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 13:04:51 GMT"
+          "Value": "Sat, 14 Jun 2025 06:27:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13667,13 +14214,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/1t/VE34Z5IGdHx9q5p6VoosRcz6L2n1UGfzWHOUGJc="
+          "Value": "sha256-swRKJGYhkMelRnO0hc5W4T3gHjD1tzzcmL4+YiArjis="
         }
       ]
     },
     {
-      "Route": "admin-side/js/custom.rt9ljtndhs.js",
-      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.js",
+      "Route": "admin-side/js/custom.min.7ex2iwvsg2.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13682,7 +14229,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "154158"
+          "Value": "71662"
         },
         {
           "Name": "Content-Type",
@@ -13690,11 +14237,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/1t/VE34Z5IGdHx9q5p6VoosRcz6L2n1UGfzWHOUGJc=\""
+          "Value": "\"j9dNEkO3Zx0tjfJP3W27Xgay2zL8Wg6hWt+EGcQFTP0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 13:04:51 GMT"
+          "Value": "Sat, 14 Jun 2025 06:42:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13704,15 +14251,134 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rt9ljtndhs"
+          "Value": "7ex2iwvsg2"
         },
         {
           "Name": "label",
-          "Value": "admin-side/js/custom.js"
+          "Value": "admin-side/js/custom.min.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/1t/VE34Z5IGdHx9q5p6VoosRcz6L2n1UGfzWHOUGJc="
+          "Value": "sha256-j9dNEkO3Zx0tjfJP3W27Xgay2zL8Wg6hWt+EGcQFTP0="
+        }
+      ]
+    },
+    {
+      "Route": "admin-side/js/custom.min.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j9dNEkO3Zx0tjfJP3W27Xgay2zL8Wg6hWt+EGcQFTP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 06:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j9dNEkO3Zx0tjfJP3W27Xgay2zL8Wg6hWt+EGcQFTP0="
+        }
+      ]
+    },
+    {
+      "Route": "app/controllers/login/index.0pyx0y2c9y.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 07:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pyx0y2c9y"
+        },
+        {
+          "Name": "label",
+          "Value": "app/controllers/login/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ="
+        }
+      ]
+    },
+    {
+      "Route": "app/controllers/login/index.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 07:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ="
         }
       ]
     },
@@ -13963,51 +14629,6 @@
       ]
     },
     {
-      "Route": "app/shared/tedu.5ucxslc4de.js",
-      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4351"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"w3B4tD5Xs/3gBdkeIUWVVhL25PVKokhxdrav+uZGslA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 12:18:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ucxslc4de"
-        },
-        {
-          "Name": "label",
-          "Value": "app/shared/tedu.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-w3B4tD5Xs/3gBdkeIUWVVhL25PVKokhxdrav+uZGslA="
-        }
-      ]
-    },
-    {
       "Route": "app/shared/tedu.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
       "Selectors": [],
@@ -14018,7 +14639,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4351"
+          "Value": "4954"
         },
         {
           "Name": "Content-Type",
@@ -14026,11 +14647,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w3B4tD5Xs/3gBdkeIUWVVhL25PVKokhxdrav+uZGslA=\""
+          "Value": "\"E342fH6xaX5Xn5fu2EhFuXhwCP0+0256J16q6GD8it8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 12:18:13 GMT"
+          "Value": "Mon, 09 Jun 2025 14:27:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14040,7 +14661,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w3B4tD5Xs/3gBdkeIUWVVhL25PVKokhxdrav+uZGslA="
+          "Value": "sha256-E342fH6xaX5Xn5fu2EhFuXhwCP0+0256J16q6GD8it8="
+        }
+      ]
+    },
+    {
+      "Route": "app/shared/tedu.zkq6qaf0fb.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E342fH6xaX5Xn5fu2EhFuXhwCP0+0256J16q6GD8it8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 14:27:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zkq6qaf0fb"
+        },
+        {
+          "Name": "label",
+          "Value": "app/shared/tedu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E342fH6xaX5Xn5fu2EhFuXhwCP0+0256J16q6GD8it8="
         }
       ]
     },
@@ -39471,6 +40137,88 @@
       ]
     },
     {
+      "Route": "lib/animate.css/animate.min.css",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\animate.css\\animate.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1hIhSlowg4vqaFZ/bikPMfEGwSgM0FtIs7mx1PADHCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Feb 2023 22:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1hIhSlowg4vqaFZ/bikPMfEGwSgM0FtIs7mx1PADHCk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/animate.css/animate.min.y6bmn5mofz.css",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\animate.css\\animate.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1hIhSlowg4vqaFZ/bikPMfEGwSgM0FtIs7mx1PADHCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Feb 2023 22:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y6bmn5mofz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/animate.css/animate.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1hIhSlowg4vqaFZ/bikPMfEGwSgM0FtIs7mx1PADHCk="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -55416,7 +56164,7 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.jg2twouj2p.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -55426,7 +56174,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24601"
+          "Value": "24594"
         },
         {
           "Name": "Content-Type",
@@ -55434,11 +56182,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+          "Value": "\"TS7vYJ0aEJuIOZtmZSbrJwJVNSGQ1zV7YxoAUC9wZ4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 03:51:26 GMT"
+          "Value": "Sat, 14 Jun 2025 07:37:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -55448,7 +56196,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7iojwaux1"
+          "Value": "jg2twouj2p"
         },
         {
           "Name": "label",
@@ -55456,7 +56204,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+          "Value": "sha256-TS7vYJ0aEJuIOZtmZSbrJwJVNSGQ1zV7YxoAUC9wZ4w="
         }
       ]
     },
@@ -55471,7 +56219,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24601"
+          "Value": "24594"
         },
         {
           "Name": "Content-Type",
@@ -55479,11 +56227,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+          "Value": "\"TS7vYJ0aEJuIOZtmZSbrJwJVNSGQ1zV7YxoAUC9wZ4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 03:51:26 GMT"
+          "Value": "Sat, 14 Jun 2025 07:37:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -55493,7 +56241,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+          "Value": "sha256-TS7vYJ0aEJuIOZtmZSbrJwJVNSGQ1zV7YxoAUC9wZ4w="
         }
       ]
     },
@@ -56031,6 +56779,1318 @@
         {
           "Name": "integrity",
           "Value": "sha256-hFxSSWnt1bOvmqbYcY0p/pLo2+JblVIUqOBkoFqaUCc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/.a75jet1f1o.gitignore",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\.gitignore",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FtMORGIYn7FN1hG9twjFEGMMV2ofNbk4PomkNS2jbJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a75jet1f1o"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/.gitignore"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FtMORGIYn7FN1hG9twjFEGMMV2ofNbk4PomkNS2jbJc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/.gitignore",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\.gitignore",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FtMORGIYn7FN1hG9twjFEGMMV2ofNbk4PomkNS2jbJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FtMORGIYn7FN1hG9twjFEGMMV2ofNbk4PomkNS2jbJc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/bower.json",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il7pHctd9hxxoCTGlc1vrF+gXcOyckz26QvlE0vJ8ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-il7pHctd9hxxoCTGlc1vrF+gXcOyckz26QvlE0vJ8ds="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/bower.y2qufkse9u.json",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\bower.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il7pHctd9hxxoCTGlc1vrF+gXcOyckz26QvlE0vJ8ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y2qufkse9u"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/bower.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-il7pHctd9hxxoCTGlc1vrF+gXcOyckz26QvlE0vJ8ds="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/CHANGES.d006746wq6.md",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\CHANGES.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jZxWIIg+2aNkPTNvd4rDnKWbC/n/oIMm3Nt6G6Yldvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d006746wq6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/CHANGES.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jZxWIIg+2aNkPTNvd4rDnKWbC/n/oIMm3Nt6G6Yldvc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/CHANGES.md",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\CHANGES.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jZxWIIg+2aNkPTNvd4rDnKWbC/n/oIMm3Nt6G6Yldvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jZxWIIg+2aNkPTNvd4rDnKWbC/n/oIMm3Nt6G6Yldvc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/dist/notify.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\notify.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yC+/SfOuhW7O1ut5331xstoqC9LjWcJqfn25Bj5upUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yC+/SfOuhW7O1ut5331xstoqC9LjWcJqfn25Bj5upUo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/dist/notify.snmqrc3w19.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\notify.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yC+/SfOuhW7O1ut5331xstoqC9LjWcJqfn25Bj5upUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "snmqrc3w19"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/dist/notify.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yC+/SfOuhW7O1ut5331xstoqC9LjWcJqfn25Bj5upUo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/dist/styles/metro/notify-metro.css",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v3mQGhTBgiQ33BTFlC/Ude5iEPSmu7UOqpn4CassYbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v3mQGhTBgiQ33BTFlC/Ude5iEPSmu7UOqpn4CassYbQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/dist/styles/metro/notify-metro.jf16d4zt80.css",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v3mQGhTBgiQ33BTFlC/Ude5iEPSmu7UOqpn4CassYbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jf16d4zt80"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/dist/styles/metro/notify-metro.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v3mQGhTBgiQ33BTFlC/Ude5iEPSmu7UOqpn4CassYbQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/dist/styles/metro/notify-metro.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RBzcn2LeBdpnOBL599/+bFZ31rIX8WGsBqYmirYLip8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RBzcn2LeBdpnOBL599/+bFZ31rIX8WGsBqYmirYLip8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/dist/styles/metro/notify-metro.wdpnohorx1.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RBzcn2LeBdpnOBL599/+bFZ31rIX8WGsBqYmirYLip8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdpnohorx1"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/dist/styles/metro/notify-metro.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RBzcn2LeBdpnOBL599/+bFZ31rIX8WGsBqYmirYLip8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/classes.5ukz5hg902.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\classes.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w2KIsyBHPayQYRrgnTdLLIoOUWnRQCzGdrJjugsIHxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ukz5hg902"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/examples/classes.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w2KIsyBHPayQYRrgnTdLLIoOUWnRQCzGdrJjugsIHxs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/classes.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\classes.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w2KIsyBHPayQYRrgnTdLLIoOUWnRQCzGdrJjugsIHxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w2KIsyBHPayQYRrgnTdLLIoOUWnRQCzGdrJjugsIHxs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/images/Mail.ivkpmzcj2n.png",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\images\\Mail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EggU0CjwNEbRSS3Od7T287PFyOV3S37zQop/fZsAYj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ivkpmzcj2n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/examples/images/Mail.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EggU0CjwNEbRSS3Od7T287PFyOV3S37zQop/fZsAYj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/images/Mail.png",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\images\\Mail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EggU0CjwNEbRSS3Od7T287PFyOV3S37zQop/fZsAYj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EggU0CjwNEbRSS3Od7T287PFyOV3S37zQop/fZsAYj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/inlines.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\inlines.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUAHDRLzDrn9oO/elswdEXchcZ0fuls+p0q1bgS3HrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUAHDRLzDrn9oO/elswdEXchcZ0fuls+p0q1bgS3HrU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/inlines.j7i5gdfqox.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\inlines.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kUAHDRLzDrn9oO/elswdEXchcZ0fuls+p0q1bgS3HrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7i5gdfqox"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/examples/inlines.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kUAHDRLzDrn9oO/elswdEXchcZ0fuls+p0q1bgS3HrU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/metro.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\metro.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FUIVyGpmzgw9trWV8WsF3miRvK/kLbk0US2I+xHH9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FUIVyGpmzgw9trWV8WsF3miRvK/kLbk0US2I+xHH9U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/metro.k1ufc51d8d.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\metro.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FUIVyGpmzgw9trWV8WsF3miRvK/kLbk0US2I+xHH9U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1ufc51d8d"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/examples/metro.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FUIVyGpmzgw9trWV8WsF3miRvK/kLbk0US2I+xHH9U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/multi-text.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\multi-text.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blsXQ2MM6VNFPutkVyMwbn5vu5LX8XljfzKY+VA/W7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-blsXQ2MM6VNFPutkVyMwbn5vu5LX8XljfzKY+VA/W7Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/multi-text.y79jeua01n.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\multi-text.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blsXQ2MM6VNFPutkVyMwbn5vu5LX8XljfzKY+VA/W7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y79jeua01n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/examples/multi-text.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-blsXQ2MM6VNFPutkVyMwbn5vu5LX8XljfzKY+VA/W7Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/position.2eio3oyh96.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\position.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GhbRKppTs9h88GWJbb+MVZPH7NM+Xhi5qEeRLj1ZgzM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2eio3oyh96"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/examples/position.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GhbRKppTs9h88GWJbb+MVZPH7NM+Xhi5qEeRLj1ZgzM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/examples/position.html",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\position.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GhbRKppTs9h88GWJbb+MVZPH7NM+Xhi5qEeRLj1ZgzM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GhbRKppTs9h88GWJbb+MVZPH7NM+Xhi5qEeRLj1ZgzM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/LICENSE",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6MXZ2Hbxn6wnp1WBnvpb1SCoAnqgTahDiUDXuMMt/OQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6MXZ2Hbxn6wnp1WBnvpb1SCoAnqgTahDiUDXuMMt/OQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/LICENSE.4lvw2z7hrd",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6MXZ2Hbxn6wnp1WBnvpb1SCoAnqgTahDiUDXuMMt/OQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lvw2z7hrd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6MXZ2Hbxn6wnp1WBnvpb1SCoAnqgTahDiUDXuMMt/OQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/notify.jquery.1y6yvappuy.json",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\notify.jquery.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ4wuoM0Mhw0afz5WDzzMEy28O/MVJsJ2tsGZwauXkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1y6yvappuy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/notify.jquery.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ4wuoM0Mhw0afz5WDzzMEy28O/MVJsJ2tsGZwauXkc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/notify.jquery.json",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\notify.jquery.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qQ4wuoM0Mhw0afz5WDzzMEy28O/MVJsJ2tsGZwauXkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qQ4wuoM0Mhw0afz5WDzzMEy28O/MVJsJ2tsGZwauXkc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/package.3ljfqqna0p.json",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gf0I9xMMCz6TFxa4SclXahtRFigs6wjykI7WjSu/yhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ljfqqna0p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/package.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gf0I9xMMCz6TFxa4SclXahtRFigs6wjykI7WjSu/yhM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/package.json",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\package.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gf0I9xMMCz6TFxa4SclXahtRFigs6wjykI7WjSu/yhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gf0I9xMMCz6TFxa4SclXahtRFigs6wjykI7WjSu/yhM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/README.1g9zkk4yi5.md",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8Ha1JijCN7455QFKnnHn4XCYh0+sh2n/kWmLRiAriw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1g9zkk4yi5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/notifyjs-master/README.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8Ha1JijCN7455QFKnnHn4XCYh0+sh2n/kWmLRiAriw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/notifyjs-master/README.md",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\README.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8Ha1JijCN7455QFKnnHn4XCYh0+sh2n/kWmLRiAriw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Nov 2022 04:44:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8Ha1JijCN7455QFKnnHn4XCYh0+sh2n/kWmLRiAriw="
         }
       ]
     },
@@ -57123,7 +59183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 12:18:56 GMT"
+          "Value": "Sat, 14 Jun 2025 14:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -57160,7 +59220,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 12:18:56 GMT"
+          "Value": "Sat, 14 Jun 2025 14:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -57205,7 +59265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 12:18:56 GMT"
+          "Value": "Sat, 14 Jun 2025 14:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -57250,7 +59310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 08 Jun 2025 12:18:56 GMT"
+          "Value": "Sat, 14 Jun 2025 14:06:41 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -294,37 +294,68 @@ if (typeof NProgress != 'undefined') {
 
 
 //hover and retain popover when on popover content
-var originalLeave = $.fn.popover.Constructor.prototype.leave;
-$.fn.popover.Constructor.prototype.leave = function (obj) {
-    var self = obj instanceof this.constructor ?
-        obj : $(obj.currentTarget)[this.type](this.getDelegateOptions()).data('bs.' + this.type);
-    var container, timeout;
+// var originalLeave = $.fn.popover.Constructor.prototype.leave;
+// $.fn.popover.Constructor.prototype.leave = function (obj) {
+//     var self = obj instanceof this.constructor ?
+//         obj : $(obj.currentTarget)[this.type](this.getDelegateOptions()).data('bs.' + this.type);
+//     var container, timeout;
 
-    originalLeave.call(this, obj);
+//     originalLeave.call(this, obj);
 
-    if (obj.currentTarget) {
-        container = $(obj.currentTarget).siblings('.popover');
-        timeout = self.timeout;
-        container.one('mouseenter', function () {
-            //We entered the actual popover – call off the dogs
-            clearTimeout(timeout);
-            //Let's monitor popover content instead
-            container.one('mouseleave', function () {
-                $.fn.popover.Constructor.prototype.leave.call(self, self);
+//     if (obj.currentTarget) {
+//         container = $(obj.currentTarget).siblings('.popover');
+//         timeout = self.timeout;
+//         container.one('mouseenter', function () {
+//             //We entered the actual popover – call off the dogs
+//             clearTimeout(timeout);
+//             //Let's monitor popover content instead
+//             container.one('mouseleave', function () {
+//                 $.fn.popover.Constructor.prototype.leave.call(self, self);
+//             });
+//         });
+//     }
+// };
+
+// $('body').popover({
+//     selector: '[data-popover]',
+//     trigger: 'click hover',
+//     delay: {
+//         show: 50,
+//         hide: 400
+//     }
+// });
+
+// Kiểm tra an toàn trước khi override popover
+if ($.fn.popover && $.fn.popover.Constructor && $.fn.popover.Constructor.prototype.leave) {
+    var originalLeave = $.fn.popover.Constructor.prototype.leave;
+    $.fn.popover.Constructor.prototype.leave = function (obj) {
+        var self = obj instanceof this.constructor ?
+            obj : $(obj.currentTarget)[this.type](this.getDelegateOptions()).data('bs.' + this.type);
+        var container, timeout;
+
+        originalLeave.call(this, obj);
+
+        if (obj.currentTarget) {
+            container = $(obj.currentTarget).siblings('.popover');
+            timeout = self.timeout;
+            container.one('mouseenter', function () {
+                clearTimeout(timeout);
+                container.one('mouseleave', function () {
+                    $.fn.popover.Constructor.prototype.leave.call(self, self);
+                });
             });
-        });
-    }
-};
+        }
+    };
 
-$('body').popover({
-    selector: '[data-popover]',
-    trigger: 'click hover',
-    delay: {
-        show: 50,
-        hide: 400
-    }
-});
-
+    $('body').popover({
+        selector: '[data-popover]',
+        trigger: 'click hover',
+        delay: {
+            show: 50,
+            hide: 400
+        }
+    });
+}
 
 function gd(year, month, day) {
     return new Date(year, month - 1, day).getTime();
@@ -1922,7 +1953,14 @@ function init_EasyPieChart() {
     });
 
     //hover and retain popover when on popover content
-    var originalLeave = $.fn.popover.Constructor.prototype.leave;
+    //var originalLeave = $.fn.popover.Constructor.prototype.leave;
+
+    // kiểm tra trước 
+    var originalLeave = null;
+    if ($.fn.popover && $.fn.popover.Constructor && $.fn.popover.Constructor.prototype.leave) {
+        originalLeave = $.fn.popover.Constructor.prototype.leave;
+    }
+
     $.fn.popover.Constructor.prototype.leave = function (obj) {
         var self = obj instanceof this.constructor ?
             obj : $(obj.currentTarget)[this.type](this.getDelegateOptions()).data('bs.' + this.type);

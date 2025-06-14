@@ -8,12 +8,30 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\lib\notifyjs-master\.gitignore" />
+    <None Include="wwwroot\lib\notifyjs-master\CHANGES.md" />
+    <None Include="wwwroot\lib\notifyjs-master\dist\notify.js" />
+    <None Include="wwwroot\lib\notifyjs-master\dist\styles\metro\notify-metro.css" />
+    <None Include="wwwroot\lib\notifyjs-master\dist\styles\metro\notify-metro.js" />
+    <None Include="wwwroot\lib\notifyjs-master\examples\classes.html" />
+    <None Include="wwwroot\lib\notifyjs-master\examples\images\Mail.png" />
+    <None Include="wwwroot\lib\notifyjs-master\examples\inlines.html" />
+    <None Include="wwwroot\lib\notifyjs-master\examples\metro.html" />
+    <None Include="wwwroot\lib\notifyjs-master\examples\multi-text.html" />
+    <None Include="wwwroot\lib\notifyjs-master\examples\position.html" />
+    <None Include="wwwroot\lib\notifyjs-master\LICENSE" />
+    <None Include="wwwroot\lib\notifyjs-master\README.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="8.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.15" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.15" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.15" />
+    <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="7.0.0" />
     <PackageReference Include="SyrianBallaS.AutoMapper.Extensions.Microsoft.DependencyInjection.Signed" Version="3.2.0" />
   </ItemGroup>
 

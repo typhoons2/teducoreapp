@@ -479,6 +479,14 @@
               "target": "Package",
               "version": "[8.0.15, )"
             },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "SyrianBallaS.AutoMapper.Extensions.Microsoft.DependencyInjection.Signed": {
               "target": "Package",
               "version": "[3.2.0, )"

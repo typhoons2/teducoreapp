@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\admin-side\\css\\custom.css"
     },
     {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\css\\custom.min.css",
+      "PackagePath": "staticwebassets\\admin-side\\css\\custom.min.css"
+    },
+    {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\images\\american-express.png",
       "PackagePath": "staticwebassets\\admin-side\\images\\american-express.png"
     },
@@ -75,6 +79,14 @@
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.js",
       "PackagePath": "staticwebassets\\admin-side\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\admin-side\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\admin-side\\js\\custom.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
+      "PackagePath": "staticwebassets\\app\\controllers\\login\\index.js"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
@@ -1225,6 +1237,10 @@
       "PackagePath": "staticwebassets\\lib\\@popperjs\\core\\package.json"
     },
     {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate.css\\animate.min.css"
+    },
+    {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.css"
     },
@@ -2031,6 +2047,70 @@
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\moment\\moment.min.js",
       "PackagePath": "staticwebassets\\lib\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\.gitignore"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\CHANGES.md",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\CHANGES.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\README.md"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\bower.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\notify.js",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\dist\\notify.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.css",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.css"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.js",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\dist\\styles\\metro\\notify-metro.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\classes.html",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\examples\\classes.html"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\images\\Mail.png",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\examples\\images\\Mail.png"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\inlines.html",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\examples\\inlines.html"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\metro.html",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\examples\\metro.html"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\multi-text.html",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\examples\\multi-text.html"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\examples\\position.html",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\examples\\position.html"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\notify.jquery.json",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\notify.jquery.json"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\notifyjs-master\\package.json"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\nprogress\\.npmignore",

@@ -121,5 +121,17 @@
             }
         }
         return roots;
+    },
+    addToken: function (xhr, options) {
+        if (options.type && (options.type.toUpperCase() == "POST" || options.type.toUpperCase() == "PUT")) {
+            var token = $('#formLogin').find('input[name="__RequestVerificationToken"]').val();
+            console.log('Token:', token); // Thêm dòng này
+            if(token) xhr.setRequestHeader("RequestVerificationToken", token);
+        }
     }
 }
+
+// Đăng ký sự kiện ajaxSend để tự động thêm AntiForgeryToken cho mọi AJAX request
+$(document).ajaxSend(function (e, xhr, options) {
+    tedu.addToken(xhr, options);
+});

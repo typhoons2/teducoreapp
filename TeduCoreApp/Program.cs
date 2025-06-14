@@ -10,6 +10,7 @@ using TeduCoreApp.Data.EF.Repositories;
 using TeduCoreApp.Data.Entities;
 using TeduCoreApp.Data.IRepositories;
 using TeduCoreApp.Infrastructure.Interfaces;
+using Serilog;
 
 
 
@@ -29,6 +30,17 @@ builder.Services.AddIdentity<AppUser, AppRole>()
 builder.Services.AddScoped<UserManager<AppUser>, UserManager<AppUser>>();
 builder.Services.AddScoped<RoleManager<AppRole>, RoleManager<AppRole>>();
 
+
+Log.Logger = new LoggerConfiguration()
+	.WriteTo.Console()
+	.WriteTo.File("Logs/tedu-.txt", rollingInterval: RollingInterval.Day)
+	.CreateLogger();
+
+
+
+builder.Host.UseSerilog();
+
+
 builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile).Assembly);
 //builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile));
 //builder.Services.AddAutoMapper(typeof(DomainToViewModelMappingProfile));    
@@ -38,8 +50,17 @@ builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryReposit
 builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();
 builder.Services.AddTransient<IUnitOfWork, EFUnitOfWork>();
 
+//builder.Services.AddControllersWithViews()
+//    .AddNewtonsoftJson(options =>
+//    {
+//        options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.DefaultContractResolver();
+//    });
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages(); //
+
+
+
 
 var app = builder.Build();
 
@@ -87,7 +108,9 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    //pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Login}/{action=Index}/{id?}",
+    defaults: new { area = "Admin" });
 app.MapRazorPages();
 
 app.Run();

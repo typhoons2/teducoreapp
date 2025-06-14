@@ -1,4 +1,5 @@
 wwwroot\admin-side\css\custom.css
+wwwroot\admin-side\css\custom.min.css
 wwwroot\admin-side\images\american-express.png
 wwwroot\admin-side\images\cropper.jpg
 wwwroot\admin-side\images\favicon.ico
@@ -16,6 +17,8 @@ wwwroot\admin-side\images\prod-5.jpg
 wwwroot\admin-side\images\user.png
 wwwroot\admin-side\images\visa.png
 wwwroot\admin-side\js\custom.js
+wwwroot\admin-side\js\custom.min.js
+wwwroot\app\controllers\login\index.js
 wwwroot\app\controllers\product\index.js
 wwwroot\app\shared\constants.js
 wwwroot\app\shared\messages.js
@@ -303,6 +306,7 @@ wwwroot\lib\@popperjs\core\lib\utils\within.js.flow
 wwwroot\lib\@popperjs\core\LICENSE.md
 wwwroot\lib\@popperjs\core\package.json
 wwwroot\lib\@popperjs\core\README.md
+wwwroot\lib\animate.css\animate.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
@@ -505,6 +509,22 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\lib\moment\moment.js
 wwwroot\lib\moment\moment.min.js
+wwwroot\lib\notifyjs-master\.gitignore
+wwwroot\lib\notifyjs-master\bower.json
+wwwroot\lib\notifyjs-master\CHANGES.md
+wwwroot\lib\notifyjs-master\dist\notify.js
+wwwroot\lib\notifyjs-master\dist\styles\metro\notify-metro.css
+wwwroot\lib\notifyjs-master\dist\styles\metro\notify-metro.js
+wwwroot\lib\notifyjs-master\examples\classes.html
+wwwroot\lib\notifyjs-master\examples\images\Mail.png
+wwwroot\lib\notifyjs-master\examples\inlines.html
+wwwroot\lib\notifyjs-master\examples\metro.html
+wwwroot\lib\notifyjs-master\examples\multi-text.html
+wwwroot\lib\notifyjs-master\examples\position.html
+wwwroot\lib\notifyjs-master\LICENSE
+wwwroot\lib\notifyjs-master\notify.jquery.json
+wwwroot\lib\notifyjs-master\package.json
+wwwroot\lib\notifyjs-master\README.md
 wwwroot\lib\nprogress\.npmignore
 wwwroot\lib\nprogress\.travis.yml
 wwwroot\lib\nprogress\bower.json
