@@ -244,13 +244,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app\controllers\login\index.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3263"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 15:06:54 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3263"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 03:18:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TeduCoreApp/app/controllers/login/index.uve4tece70.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app\controllers\login\index.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uve4tece70"},{"Name":"integrity","Value":"sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="},{"Name":"label","Value":"_content/TeduCoreApp/app/controllers/login/index.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3263"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 15:06:54 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3263"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 03:18:17 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TeduCoreApp/app/controllers/product/index.3r8b2a0bt1.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app\controllers\product\index.js'))</AssetFile>
@@ -6484,13 +6484,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TeduCoreApp.cte1dnxp64.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QDpusGDGj2hldQZA927YypYQtaN\u002BPyuUsonR2OASAlM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2270"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QDpusGDGj2hldQZA927YypYQtaN\u002BPyuUsonR2OASAlM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 14:06:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2270"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QDpusGDGj2hldQZA927YypYQtaN\u002BPyuUsonR2OASAlM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 03:23:43 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TeduCoreApp/TeduCoreApp.cte1dnxp64.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TeduCoreApp.cte1dnxp64.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cte1dnxp64"},{"Name":"integrity","Value":"sha256-QDpusGDGj2hldQZA927YypYQtaN\u002BPyuUsonR2OASAlM="},{"Name":"label","Value":"_content/TeduCoreApp/TeduCoreApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2270"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QDpusGDGj2hldQZA927YypYQtaN\u002BPyuUsonR2OASAlM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 14:06:41 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2270"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QDpusGDGj2hldQZA927YypYQtaN\u002BPyuUsonR2OASAlM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Jun 2025 03:23:43 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
