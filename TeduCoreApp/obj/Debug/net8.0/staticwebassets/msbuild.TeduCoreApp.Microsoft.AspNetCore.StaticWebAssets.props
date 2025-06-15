@@ -372,8 +372,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0pyx0y2c9y</Fingerprint>
-      <Integrity>HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=</Integrity>
+      <Fingerprint>uve4tece70</Fingerprint>
+      <Integrity>pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app\controllers\login\index.js'))</OriginalItemSpec>

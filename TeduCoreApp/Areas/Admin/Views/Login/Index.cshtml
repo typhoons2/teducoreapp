@@ -13,13 +13,13 @@
     <title>Đăng nhập hệ thống admin</title>
 
     <!-- Bootstrap -->
-    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
-    <link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <!-- NProgress -->
-    <link href="~/lib/nprogress/nprogress.css" rel="stylesheet" />
+    <link href="~/lib/nprogress/nprogress.css" rel="stylesheet">
     <!-- Animate.css -->
-    <link href="~/lib/animate.css/animate.min.css" rel="stylesheet" />
+    <link href="~/lib/animate.css/animate.min.css" rel="stylesheet">
 
     <link href="~/lib/notifyjs-master/dist/styles/metro/notify-metro.css" rel="stylesheet" />
 
@@ -40,9 +40,11 @@
                         <h1>Đăng nhập</h1>
                         <div>
                             <input type="text" class="form-control" name="userName" placeholder="Tên đăng nhập" id="txtUserName" required="" />
+                            <span class="text-danger" id="userName-error"></span>
                         </div>
                         <div>
-                            <input type="password" class="form-control" name="password" placeholder="Password" id="txtPassword" required="" />
+                            <input type="password" class="form-control" name="password" placeholder="Mật khẩu" id="txtPassword" required="" />
+                            <span class="text-danger" id="password-error"></span>
                         </div>
                         <div>
                             <a class="btn btn-default submit" href="#" id="btnLogin">Đăng nhập</a>
@@ -52,7 +54,6 @@
                         <div class="clearfix"></div>
 
                         <div class="separator">
-                            
                             <div class="clearfix"></div>
                             <br />
 
@@ -70,7 +71,8 @@
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-
+    <!-- jQuery Validation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
     <!-- iCheck plugin (bắt buộc cho Gentelella) -->
     @* <script src="~/lib/icheck/icheck.min.js"></script> *@
     <script src="~/lib/fastclick/fastclick.js"></script>

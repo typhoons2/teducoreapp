@@ -1,16 +1,15 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 using TeduCoreApp.Application.AutoMapper;
 using TeduCoreApp.Application.Implementations;
 using TeduCoreApp.Application.Interfaces;
-using TeduCoreApp.Data;
 using TeduCoreApp.Data.EF;
 using TeduCoreApp.Data.EF.Repositories;
 using TeduCoreApp.Data.Entities;
 using TeduCoreApp.Data.IRepositories;
 using TeduCoreApp.Infrastructure.Interfaces;
-using Serilog;
 
 
 

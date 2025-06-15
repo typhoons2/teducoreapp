@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BurJJPTpchYc+vYyv540EaWizEMqVJUajNRCbZW3knM=",
+  "Hash": "eD6mDf3peWvIFr/YknqPDeF6iCY4u6KkzeAyvDZC4KU=",
   "Source": "TeduCoreApp",
   "BasePath": "_content/TeduCoreApp",
   "Mode": "Default",
@@ -1753,8 +1753,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0pyx0y2c9y",
-      "Integrity": "HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=",
+      "Fingerprint": "uve4tece70",
+      "Integrity": "pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app\\controllers\\login\\index.js"
@@ -14301,51 +14301,6 @@
       ]
     },
     {
-      "Route": "app/controllers/login/index.0pyx0y2c9y.js",
-      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "987"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 07:41:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0pyx0y2c9y"
-        },
-        {
-          "Name": "label",
-          "Value": "app/controllers/login/index.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ="
-        }
-      ]
-    },
-    {
       "Route": "app/controllers/login/index.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
       "Selectors": [],
@@ -14356,7 +14311,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "987"
+          "Value": "3263"
         },
         {
           "Name": "Content-Type",
@@ -14364,11 +14319,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=\""
+          "Value": "\"pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 07:41:55 GMT"
+          "Value": "Sat, 14 Jun 2025 15:06:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14378,7 +14333,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ="
+          "Value": "sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="
+        }
+      ]
+    },
+    {
+      "Route": "app/controllers/login/index.uve4tece70.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 15:06:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uve4tece70"
+        },
+        {
+          "Name": "label",
+          "Value": "app/controllers/login/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="
         }
       ]
     },

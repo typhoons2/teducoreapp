@@ -3945,51 +3945,6 @@
       ]
     },
     {
-      "Route": "app/controllers/login/index.0pyx0y2c9y.js",
-      "AssetFile": "app/controllers/login/index.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "987"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 07:41:55 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0pyx0y2c9y"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ="
-        },
-        {
-          "Name": "label",
-          "Value": "app/controllers/login/index.js"
-        }
-      ]
-    },
-    {
       "Route": "app/controllers/login/index.js",
       "AssetFile": "app/controllers/login/index.js",
       "Selectors": [],
@@ -4004,7 +3959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "987"
+          "Value": "3263"
         },
         {
           "Name": "Content-Type",
@@ -4012,17 +3967,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ=\""
+          "Value": "\"pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 14 Jun 2025 07:41:55 GMT"
+          "Value": "Sat, 14 Jun 2025 15:06:54 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HOpDzUF165XLOn1PXLuHuzW4vl7NYw4Pe045hn1snOQ="
+          "Value": "sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="
+        }
+      ]
+    },
+    {
+      "Route": "app/controllers/login/index.uve4tece70.js",
+      "AssetFile": "app/controllers/login/index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 15:06:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uve4tece70"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="
+        },
+        {
+          "Name": "label",
+          "Value": "app/controllers/login/index.js"
         }
       ]
     },
