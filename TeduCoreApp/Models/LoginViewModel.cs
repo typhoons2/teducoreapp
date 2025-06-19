@@ -4,17 +4,17 @@ namespace TeduCoreApp.Models
 {
 	public class LoginViewModel
 	{
-		[Required(ErrorMessage = "Vui lòng nhập tên đăng nhập")]
-		[StringLength(50, MinimumLength = 3, ErrorMessage = "Tên đăng nhập phải từ 3-50 ký tự")]
-		[RegularExpression(@"^[a-zA-Z0-9_]+$", ErrorMessage = "Tên đăng nhập chỉ được chứa chữ cái, số và dấu gạch dưới")]
+		[Required(ErrorMessage = "Please enter username")]
+		[StringLength(50, MinimumLength = 3, ErrorMessage = "Username must be between 3-50 characters")]
+		[RegularExpression(@"^[a-zA-Z0-9_]+$", ErrorMessage = "Username can only contain letters, numbers and underscore")]
 		public string UserName { get; set; }
 
-		[Required(ErrorMessage = "Vui lòng nhập mật khẩu")]
-		[StringLength(100, MinimumLength = 6, ErrorMessage = "Mật khẩu phải từ 6-100 ký tự")]
+		[Required(ErrorMessage = "Please enter password")]
+		[StringLength(100, MinimumLength = 6, ErrorMessage = "Password must be between 6-100 characters")]
 		[DataType(DataType.Password)]
 		public string Password { get; set; }
 
-		[Display(Name = "Ghi nhớ đăng nhập")]
+		[Display(Name = "Remember me")]
 		public bool RememberMe { get; set; }
 	}
 }

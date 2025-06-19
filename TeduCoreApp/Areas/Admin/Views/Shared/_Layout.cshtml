@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using TeduCoreApp.Extensions;
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -43,7 +44,7 @@
               </div>
               <div class="profile_info">
                 <span>Welcome,</span>
-                <h2>John Doe</h2>
+                <h2>@User.GetSpecificClaim("fullname")</h2>
               </div>
             </div>
             <!-- /menu profile quick info -->
@@ -183,7 +184,7 @@
                 <ul class=" navbar-right">
                   <li class="nav-item dropdown open" style="padding-left: 15px;">
                     <a href="javascript:;" class="user-profile dropdown-toggle" aria-haspopup="true" id="navbarDropdown" data-toggle="dropdown" aria-expanded="false">
-                      <img src="~/admin-side/images/img.jpg" alt="">John Doe
+                      <img src="~/admin-side/images/img.jpg" alt="">@User.GetSpecificClaim("fullname")
                     </a>
                     <div class="dropdown-menu dropdown-usermenu pull-right" aria-labelledby="navbarDropdown">
                       <a class="dropdown-item"  href="javascript:;"> Profile</a>

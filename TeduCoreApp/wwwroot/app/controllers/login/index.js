@@ -34,20 +34,20 @@
             },
             messages: {
                 userName: {
-                    required: "Vui lòng nhập tên đăng nhập",
-                    minlength: "Tên đăng nhập phải từ 3-50 ký tự",
-                    maxlength: "Tên đăng nhập phải từ 3-50 ký tự",
-                    regex: "Tên đăng nhập chỉ được chứa chữ cái, số và dấu gạch dưới"
+                    required: "Please enter username",
+                    minlength: "Username must be between 3-50 characters",
+                    maxlength: "Username must be between 3-50 characters",
+                    regex: "Username can only contain letters, numbers and underscore"
                 },
                 password: {
-                    required: "Vui lòng nhập mật khẩu",
-                    minlength: "Mật khẩu phải từ 6-100 ký tự",
-                    maxlength: "Mật khẩu phải từ 6-100 ký tự"
+                    required: "Please enter password",
+                    minlength: "Password must be between 6-100 characters",
+                    maxlength: "Password must be between 6-100 characters"
                 }
             }
         });
 
-        // Thêm custom validator cho regex
+        // Add custom validator for regex
         $.validator.addMethod("regex", function(value, element, regexp) {
             var re = new RegExp(regexp);
             return this.optional(element) || re.test(value);
@@ -67,7 +67,7 @@
                 if (response.success) {
                     window.location.href = "/Admin/Home/Index";
                 } else {
-                    tedu.notify("Đăng nhập không đúng", "error");
+                    tedu.notify("Invalid login credentials", "error");
                 }
             },
             error: function (xhr, status, error) {
@@ -83,7 +83,7 @@
                         }
                     }
                 }
-                tedu.notify("Có lỗi xảy ra", "error");
+                tedu.notify("An error occurred", "error");
             }
         });
     }

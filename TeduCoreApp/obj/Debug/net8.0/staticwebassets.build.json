@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gX/1oic9G2fCpkQCw+FDcUuEWXmr9Lxb/oR/+sFivPA=",
+  "Hash": "VdVsQHJ8Ls+6yN68gydNMEVnkx1vE47mK0T75+Nreac=",
   "Source": "TeduCoreApp",
   "BasePath": "_content/TeduCoreApp",
   "Mode": "Default",
@@ -1753,8 +1753,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uve4tece70",
-      "Integrity": "pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=",
+      "Fingerprint": "o22tzgnx9o",
+      "Integrity": "QF1mACOZesqj7MFdI5sM5mimhTXm+Of0G1bocRbrvV4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app\\controllers\\login\\index.js"
@@ -14311,7 +14311,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3263"
+          "Value": "3207"
         },
         {
           "Name": "Content-Type",
@@ -14319,11 +14319,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\""
+          "Value": "\"QF1mACOZesqj7MFdI5sM5mimhTXm+Of0G1bocRbrvV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 03:18:17 GMT"
+          "Value": "Sun, 15 Jun 2025 03:56:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14333,12 +14333,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="
+          "Value": "sha256-QF1mACOZesqj7MFdI5sM5mimhTXm+Of0G1bocRbrvV4="
         }
       ]
     },
     {
-      "Route": "app/controllers/login/index.uve4tece70.js",
+      "Route": "app/controllers/login/index.o22tzgnx9o.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -14348,7 +14348,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3263"
+          "Value": "3207"
         },
         {
           "Name": "Content-Type",
@@ -14356,11 +14356,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo=\""
+          "Value": "\"QF1mACOZesqj7MFdI5sM5mimhTXm+Of0G1bocRbrvV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 03:18:17 GMT"
+          "Value": "Sun, 15 Jun 2025 03:56:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14370,7 +14370,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uve4tece70"
+          "Value": "o22tzgnx9o"
         },
         {
           "Name": "label",
@@ -14378,7 +14378,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pmYdinlJ5zDIHKnpdiHli1eWfAb0oj9y/BXMDV9xpgo="
+          "Value": "sha256-QF1mACOZesqj7MFdI5sM5mimhTXm+Of0G1bocRbrvV4="
         }
       ]
     },
@@ -59183,7 +59183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 03:23:43 GMT"
+          "Value": "Thu, 19 Jun 2025 13:06:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59220,7 +59220,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 03:23:43 GMT"
+          "Value": "Thu, 19 Jun 2025 13:06:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59265,7 +59265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 03:23:43 GMT"
+          "Value": "Thu, 19 Jun 2025 13:06:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59310,7 +59310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 03:23:43 GMT"
+          "Value": "Thu, 19 Jun 2025 13:06:54 GMT"
         },
         {
           "Name": "Cache-Control",
