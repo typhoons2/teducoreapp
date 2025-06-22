@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\TeduCoreApp",
-    "\\TeduCoreApp\\Areas",
-    "\\TeduCoreApp\\Areas\\Admin",
-    "\\TeduCoreApp\\Areas\\Admin\\Views",
-    "\\TeduCoreApp\\Areas\\Admin\\Views\\Shared",
-    "\\TeduCoreApp\\Areas\\Identity",
-    "\\TeduCoreApp\\Areas\\Identity\\Pages",
-    "\\TeduCoreApp\\wwwroot",
-    "\\TeduCoreApp\\wwwroot\\lib"
+    ""
   ],
-  "SelectedNode": "\\TeduCoreApp\\wwwroot\\lib\\jquery\\dist",
   "PreviewInSolutionExplorer": false
 }

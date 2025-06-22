@@ -46,10 +46,14 @@ builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile).Assembly)
 //builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile));
 //builder.Services.AddAutoMapper(typeof(DomainToViewModelMappingProfile));    
 
-
-builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
-builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();
 builder.Services.AddTransient<IUnitOfWork, EFUnitOfWork>();
+/// Repositories
+builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
+builder.Services.AddTransient<IFunctionRepository, FunctionRepository>();
+
+// Services
+builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();
+builder.Services.AddTransient<IFunctionService, FunctionService>();
 
 //builder.Services.AddControllersWithViews()
 //    .AddNewtonsoftJson(options =>

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using TeduCoreApp.Extensions;
+using System.Security.Claims;
 
 namespace TeduCoreApp.Areas.Admin.Controllers
 {
@@ -10,7 +11,7 @@ namespace TeduCoreApp.Areas.Admin.Controllers
 	{
 		public IActionResult Index()
 		{
-			var email = User.GetSpecificClaim("email");
+			var email = User.GetSpecificClaim(ClaimTypes.Email);
 			return View();
 		}
 	}

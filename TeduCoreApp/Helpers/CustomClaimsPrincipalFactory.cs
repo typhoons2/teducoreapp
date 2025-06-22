@@ -7,27 +7,54 @@ namespace TeduCoreApp.Helpers
 {
 	public class CustomClaimsPrincipalFactory : UserClaimsPrincipalFactory<AppUser, AppRole>
 	{
-		UserManager<AppUser> _userManager;
-		public CustomClaimsPrincipalFactory(UserManager<AppUser> userManager, RoleManager<AppRole> roleManager, IOptions<IdentityOptions> options) : base(userManager, roleManager, options)
+		private readonly UserManager<AppUser> _userManager;
+
+		public CustomClaimsPrincipalFactory(
+			UserManager<AppUser> userManager, 
+			RoleManager<AppRole> roleManager, 
+			IOptions<IdentityOptions> options) 
+			: base(userManager, roleManager, options)
 		{
 			_userManager = userManager;
 		}
-		public override async Task<ClaimsPrincipal> CreateAsync(AppUser user){
+
+		public override async Task<ClaimsPrincipal> CreateAsync(AppUser user)
+		{
 			var principal = await base.CreateAsync(user);
-			var identity = (ClaimsIdentity)principal.Identity;
-			if (!identity.HasClaim(c => c.Type == ClaimTypes.Role)){
-				var roles = await _userManager.GetRolesAsync(user);
-				identity.AddClaims(new[] {
-					new Claim("role", string.Join(",", roles))
-				});
+			
+			if (principal?.Identity is not ClaimsIdentity identity)
+			{
+				throw new InvalidOperationException("Failed to create claims identity");
 			}
+
+			// Add roles if not already present
+			if (!identity.HasClaim(c => c.Type == ClaimTypes.Role))
+			{
+				var roles = await _userManager.GetRolesAsync(user);
+				if (roles.Any())
+				{
+					identity.AddClaim(new Claim(ClaimTypes.Role, string.Join(";", roles)));
+				}
+			}
+
+			// Add custom claims
 			var claims = new List<Claim>();
+
 			if (!string.IsNullOrEmpty(user.Email))
-				claims.Add(new Claim("email", user.Email));
+			{
+				claims.Add(new Claim(ClaimTypes.Email, user.Email));
+			}
+
 			if (!string.IsNullOrEmpty(user.FullName))
-				claims.Add(new Claim("fullname", user.FullName));
+			{
+				claims.Add(new Claim(ClaimConstants.FullName, user.FullName));
+			}
+
 			if (!string.IsNullOrEmpty(user.Avatar))
-				claims.Add(new Claim("avatar", user.Avatar));
+			{
+				claims.Add(new Claim(ClaimConstants.Avatar, user.Avatar));
+			}
+
 			identity.AddClaims(claims);
 			return principal;
 		}

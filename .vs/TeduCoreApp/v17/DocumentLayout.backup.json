@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "D:\\.Net\\TeduCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\components\\sidebarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\components\\sidebarviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\shared\\components\\sidebar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\shared\\components\\sidebar\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|d:\\.net\\teducoreapp\\teducoreapp.application\\implementations\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|solutionrelative:teducoreapp.application\\implementations\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|d:\\.net\\teducoreapp\\teducoreapp.application\\viewmodels\\system\\functionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|solutionrelative:teducoreapp.application\\viewmodels\\system\\functionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|d:\\.net\\teducoreapp\\teducoreapp.application\\interfaces\\ifunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|solutionrelative:teducoreapp.application\\interfaces\\ifunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\helpers\\claimconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\helpers\\claimconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\helpers\\customclaimsprincipalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,40 +75,12 @@
       "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F98B2453-4C98-42C0-9DB5-8AB8194E2183}|TeduCoreApp.Data\\TeduCoreApp.Data.csproj|d:\\.net\\teducoreapp\\teducoreapp.data\\entities\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98B2453-4C98-42C0-9DB5-8AB8194E2183}|TeduCoreApp.Data\\TeduCoreApp.Data.csproj|solutionrelative:teducoreapp.data\\entities\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81134D-9E5E-4291-889C-9F649C9CA4C4}|TeduCoreApp.Data.EF\\TeduCoreApp.Data.EF.csproj|d:\\.net\\teducoreapp\\teducoreapp.data.ef\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81134D-9E5E-4291-889C-9F649C9CA4C4}|TeduCoreApp.Data.EF\\TeduCoreApp.Data.EF.csproj|solutionrelative:teducoreapp.data.ef\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A81134D-9E5E-4291-889C-9F649C9CA4C4}|TeduCoreApp.Data.EF\\TeduCoreApp.Data.EF.csproj|d:\\.net\\teducoreapp\\teducoreapp.data.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81134D-9E5E-4291-889C-9F649C9CA4C4}|TeduCoreApp.Data.EF\\TeduCoreApp.Data.EF.csproj|solutionrelative:teducoreapp.data.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\wwwroot\\app\\shared\\tedu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\wwwroot\\app\\shared\\tedu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\wwwroot\\app\\controllers\\login\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\wwwroot\\app\\controllers\\login\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\teducoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\teducoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,191 +106,246 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:35:37.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T13:12:42.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFunctionService.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Interfaces\\IFunctionService.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp.Application\\Interfaces\\IFunctionService.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Interfaces\\IFunctionService.cs",
+              "RelativeToolTip": "TeduCoreApp.Application\\Interfaces\\IFunctionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:31:34.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Implementations\\FunctionService.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp.Application\\Implementations\\FunctionService.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Implementations\\FunctionService.cs",
+              "RelativeToolTip": "TeduCoreApp.Application\\Implementations\\FunctionService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:31:04.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FunctionViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\ViewModels\\System\\FunctionViewModel.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp.Application\\ViewModels\\System\\FunctionViewModel.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\ViewModels\\System\\FunctionViewModel.cs",
+              "RelativeToolTip": "TeduCoreApp.Application\\ViewModels\\System\\FunctionViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:31:00.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClaimConstants.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Helpers\\ClaimConstants.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Helpers\\ClaimConstants.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Helpers\\ClaimConstants.cs",
+              "RelativeToolTip": "TeduCoreApp\\Helpers\\ClaimConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:13:11.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:38:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:38:22.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:38:14.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeduCoreApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:38:05.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TeduCoreApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T07:38:01.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "TeduCoreApp\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:36:51.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomClaimsPrincipalFactory.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
+              "RelativeToolTip": "TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:36:33.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data\\Entities\\Function.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp.Data\\Entities\\Function.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data\\Entities\\Function.cs",
+              "RelativeToolTip": "TeduCoreApp.Data\\Entities\\Function.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:32:58.065Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAASwC4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAtwGIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T12:58:56.074Z",
+              "WhenOpened": "2025-06-20T05:29:15.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T05:20:32.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T12:58:49.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TeduCoreApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T12:58:24.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IdentityExtensions.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Extensions\\IdentityExtensions.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Extensions\\IdentityExtensions.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Extensions\\IdentityExtensions.cs",
-              "RelativeToolTip": "TeduCoreApp\\Extensions\\IdentityExtensions.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:12:58.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:09:01.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomClaimsPrincipalFactory.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
-              "RelativeToolTip": "TeduCoreApp\\Helpers\\CustomClaimsPrincipalFactory.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:28:26.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data.EF\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp.Data.EF\\AppDbContext.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data.EF\\AppDbContext.cs",
-              "RelativeToolTip": "TeduCoreApp.Data.EF\\AppDbContext.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAlwC0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T05:00:58.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data.EF\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp.Data.EF\\DbInitializer.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data.EF\\DbInitializer.cs",
-              "RelativeToolTip": "TeduCoreApp.Data.EF\\DbInitializer.cs",
-              "ViewState": "AgIAADoDAAAAAAAAAAAnwEMDAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T04:15:22.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "bootstrap-utilities.min.css",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-              "RelativeDocumentMoniker": "TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-              "RelativeToolTip": "TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAUAAAATNgAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-15T03:19:03.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "bootstrap-utilities.css",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "RelativeDocumentMoniker": "TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "RelativeToolTip": "TeduCoreApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "ViewState": "AgIAACEFAAAAAAAAAAAAACcFAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-15T03:18:52.487Z"
+              "WhenOpened": "2025-06-20T05:20:22.142Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Program.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Program.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Program.cs",
-              "RelativeToolTip": "TeduCoreApp\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Shared\\Components\\SideBar\\Default.cshtml",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Shared\\Components\\SideBar\\Default.cshtml",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Shared\\Components\\SideBar\\Default.cshtml",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Shared\\Components\\SideBar\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T05:01:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SideBarViewComponent.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Components\\SideBarViewComponent.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Components\\SideBarViewComponent.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Components\\SideBarViewComponent.cs",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Components\\SideBarViewComponent.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T03:10:37.112Z",
+              "WhenOpened": "2025-06-20T05:01:39.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TeduCoreApp.csproj",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\TeduCoreApp.csproj",
-              "RelativeDocumentMoniker": "TeduCoreApp\\TeduCoreApp.csproj",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\TeduCoreApp.csproj",
-              "RelativeToolTip": "TeduCoreApp\\TeduCoreApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-15T03:10:30.162Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "index.js",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
-              "RelativeDocumentMoniker": "TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
-              "RelativeToolTip": "TeduCoreApp\\wwwroot\\app\\controllers\\login\\index.js",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAlwB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T02:59:54.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "tedu.js",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
-              "RelativeDocumentMoniker": "TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
-              "RelativeToolTip": "TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAADAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-15T02:56:43.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T02:55:28.384Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TeduCoreApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:28:34.246Z"
             }
           ]
         },
