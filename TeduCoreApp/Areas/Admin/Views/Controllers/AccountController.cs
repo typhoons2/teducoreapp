@@ -4,8 +4,8 @@ using TeduCoreApp.Data.Entities;
 
 namespace TeduCoreApp.Areas.Admin.Views.Controllers
 {
-	[Area("Admin")]
-	public class AccountController : Controller
+	
+	public class AccountController : BaseController
 	{
 		private readonly SignInManager<AppUser> _signInManager;
 		public AccountController(SignInManager<AppUser> signInManager)

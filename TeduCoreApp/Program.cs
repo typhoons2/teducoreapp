@@ -27,6 +27,12 @@ builder.Services.AddTransient<DbInitializer>();
 builder.Services.AddIdentity<AppUser, AppRole>()
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/Admin/Login/Index";
+});
+
 builder.Services.AddScoped<UserManager<AppUser>, UserManager<AppUser>>();
 builder.Services.AddScoped<RoleManager<AppRole>, RoleManager<AppRole>>();
 builder.Services.AddScoped<IUserClaimsPrincipalFactory<AppUser>, CustomClaimsPrincipalFactory>();
@@ -49,10 +55,12 @@ builder.Services.AddAutoMapper(typeof(ViewModelToDomainMappingProfile).Assembly)
 builder.Services.AddTransient<IUnitOfWork, EFUnitOfWork>();
 /// Repositories
 builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
+builder.Services.AddTransient<IProductRepository, ProductRepository>();
 builder.Services.AddTransient<IFunctionRepository, FunctionRepository>();
 
 // Services
 builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();
+builder.Services.AddTransient<IProductService, ProductService>();
 builder.Services.AddTransient<IFunctionService, FunctionService>();
 
 //builder.Services.AddControllersWithViews()
@@ -113,9 +121,9 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "default",
-    //pattern: "{controller=Home}/{action=Index}/{id?}");
-    pattern: "{controller=Login}/{action=Index}/{id?}",
-    defaults: new { area = "Admin" });
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+    //pattern: "{controller=Login}/{action=Index}/{id?}",
+    //defaults: new { area = "Admin" });
 app.MapRazorPages();
 
 app.Run();

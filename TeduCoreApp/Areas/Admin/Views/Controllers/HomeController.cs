@@ -2,12 +2,11 @@
 using Microsoft.AspNetCore.Authorization;
 using TeduCoreApp.Extensions;
 using System.Security.Claims;
+using TeduCoreApp.Areas.Admin.Views.Controllers;
 
 namespace TeduCoreApp.Areas.Admin.Controllers
 {
-	[Area("Admin")]
-	[Authorize]
-	public class HomeController : Controller
+	public class HomeController : BaseController
 	{
 		public IActionResult Index()
 		{

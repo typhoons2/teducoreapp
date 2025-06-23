@@ -23,8 +23,10 @@ wwwroot\app\controllers\product\index.js
 wwwroot\app\shared\constants.js
 wwwroot\app\shared\messages.js
 wwwroot\app\shared\tedu.js
+wwwroot\css\product-table.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\product-table.js
 wwwroot\js\site.js
 wwwroot\lib\@popperjs\core\dist\cjs\enums.js
 wwwroot\lib\@popperjs\core\dist\cjs\enums.js.flow
@@ -509,6 +511,8 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\lib\moment\moment.js
 wwwroot\lib\moment\moment.min.js
+wwwroot\lib\mustache\mustache.js
+wwwroot\lib\mustache\mustache.min.js
 wwwroot\lib\notifyjs-master\.gitignore
 wwwroot\lib\notifyjs-master\bower.json
 wwwroot\lib\notifyjs-master\CHANGES.md

@@ -105,12 +105,20 @@
       "PackagePath": "staticwebassets\\app\\shared\\tedu.js"
     },
     {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\css\\product-table.css",
+      "PackagePath": "staticwebassets\\css\\product-table.css"
+    },
+    {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\js\\product-table.js",
+      "PackagePath": "staticwebassets\\js\\product-table.js"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\js\\site.js",
@@ -2047,6 +2055,14 @@
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\moment\\moment.min.js",
       "PackagePath": "staticwebassets\\lib\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\mustache\\mustache.js",
+      "PackagePath": "staticwebassets\\lib\\mustache\\mustache.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\mustache\\mustache.min.js",
+      "PackagePath": "staticwebassets\\lib\\mustache\\mustache.min.js"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\notifyjs-master\\.gitignore",

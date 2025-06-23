@@ -1,0 +1,175 @@
+/* Product Table Styles */
+.table-responsive {
+    overflow-x: auto;
+}
+
+.jambo_table {
+    border: 1px solid #E6E9ED;
+}
+
+.jambo_table thead {
+    background: #F5F7FA;
+}
+
+.jambo_table thead th {
+    border-bottom: 2px solid #E6E9ED;
+    color: #5A738E;
+    font-weight: 600;
+    padding: 10px 8px;
+}
+
+.jambo_table tbody tr {
+    border-bottom: 1px solid #E6E9ED;
+}
+
+.jambo_table tbody tr:hover {
+    background-color: #F5F7FA;
+}
+
+.jambo_table tbody tr.even {
+    background-color: #F9F9F9;
+}
+
+.jambo_table tbody tr.odd {
+    background-color: #FFFFFF;
+}
+
+.jambo_table tbody tr.pointer {
+    cursor: pointer;
+}
+
+.jambo_table tbody td {
+    padding: 8px;
+    vertical-align: middle;
+}
+
+.jambo_table tbody td.a-center {
+    text-align: center;
+}
+
+.jambo_table tbody td.a-right {
+    text-align: right;
+}
+
+/* Bulk Actions */
+.bulk-actions {
+    background: #34495E;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+.bulk-actions a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.bulk-actions a:hover {
+    color: #BDC3C7;
+}
+
+/* Checkbox styling */
+.flat {
+    margin: 0;
+}
+
+/* Badge styling */
+.badge {
+    padding: 4px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.badge-success {
+    background-color: #5CB85C;
+    color: #FFFFFF;
+}
+
+.badge-danger {
+    background-color: #D9534F;
+    color: #FFFFFF;
+}
+
+.badge-warning {
+    background-color: #F0AD4E;
+    color: #FFFFFF;
+}
+
+.badge-secondary {
+    background-color: #6C757D;
+    color: #FFFFFF;
+}
+
+/* Button styling */
+.btn-xs {
+    padding: 2px 8px;
+    font-size: 11px;
+    border-radius: 3px;
+}
+
+/* Panel styling */
+.x_panel {
+    background: #FFFFFF;
+    border: 1px solid #E6E9ED;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.x_title {
+    background: #F5F7FA;
+    border-bottom: 1px solid #E6E9ED;
+    padding: 10px 15px;
+    border-radius: 3px 3px 0 0;
+}
+
+.x_title h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #5A738E;
+}
+
+.x_title small {
+    color: #9B9B9B;
+    font-size: 12px;
+}
+
+.x_content {
+    padding: 15px;
+}
+
+/* Panel toolbox */
+.panel_toolbox {
+    float: right;
+    margin: 0;
+    list-style: none;
+}
+
+.panel_toolbox li {
+    float: left;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.panel_toolbox li a {
+    padding: 5px;
+    color: #C5C7CB;
+    font-size: 14px;
+}
+
+.panel_toolbox li a:hover {
+    color: #5A738E;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .table-responsive {
+        font-size: 12px;
+    }
+    
+    .btn-xs {
+        padding: 1px 4px;
+        font-size: 10px;
+    }
+} 

@@ -186,10 +186,10 @@ D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.build.T
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TeduCoreApp.props
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TeduCoreApp.props
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCore.F857795D.Up2Date
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\refint\TeduCoreApp.dll
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.pdb
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\TeduCoreApp.genruntimeconfig.cache
 D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\ref\TeduCoreApp.dll
-D:\.Net\TeduCoreApp\TeduCoreApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
