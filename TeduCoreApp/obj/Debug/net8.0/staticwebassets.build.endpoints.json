@@ -4027,51 +4027,6 @@
       ]
     },
     {
-      "Route": "app/controllers/product/index.i064a4q0th.js",
-      "AssetFile": "app/controllers/product/index.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2281"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 05:32:12 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i064a4q0th"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0="
-        },
-        {
-          "Name": "label",
-          "Value": "app/controllers/product/index.js"
-        }
-      ]
-    },
-    {
       "Route": "app/controllers/product/index.js",
       "AssetFile": "app/controllers/product/index.js",
       "Selectors": [],
@@ -4086,7 +4041,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2281"
+          "Value": "3541"
         },
         {
           "Name": "Content-Type",
@@ -4094,17 +4049,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0=\""
+          "Value": "\"4LVsLFuCJpJUOoYl6dJbuaT9ygKyQNwgLmILXy4vWb0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 05:32:12 GMT"
+          "Value": "Tue, 24 Jun 2025 06:40:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0="
+          "Value": "sha256-4LVsLFuCJpJUOoYl6dJbuaT9ygKyQNwgLmILXy4vWb0="
+        }
+      ]
+    },
+    {
+      "Route": "app/controllers/product/index.kvvupc1da5.js",
+      "AssetFile": "app/controllers/product/index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4LVsLFuCJpJUOoYl6dJbuaT9ygKyQNwgLmILXy4vWb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 06:40:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kvvupc1da5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4LVsLFuCJpJUOoYl6dJbuaT9ygKyQNwgLmILXy4vWb0="
+        },
+        {
+          "Name": "label",
+          "Value": "app/controllers/product/index.js"
         }
       ]
     },

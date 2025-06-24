@@ -1,11 +1,47 @@
 ﻿var productController = function () {
     this.initialize = function () {
+        loadCategories();
         loadData();
+        registerEvents();
+    }
+
+    function registerEvents() {
+        $('#btnSearch').on('click', function () {
+            loadData();
+        });
+        $('#txtKeyword').on('keypress', function (e) {
+            if (e.which === 13) {
+                loadData();
+            }
+        });
         $('#ddlShowPage').on('change', function() {
             tedu.config.pageSize = $(this).val();
             loadData(1);
         });
+        $('#ddlCategorySearch').on('change', function() {
+            loadData();
+        });
     }
+
+    function loadCategories() {
+        $.ajax({
+            type: 'GET',
+            url: '/Admin/Product/GetAllCategories',
+            dataType: 'json',
+            success: function (response) {
+                var render = "<option value=''>--Select category--</option>";
+                $.each(response, function (i, item) {
+                    render += "<option value='" + item.id + "'>" + item.name + "</option>";
+                });
+                $('#ddlCategorySearch').html(render);
+            },
+            error: function (status) {
+                console.log(status);
+                tedu.notify('Cannot loading product category data', 'error');
+            }
+        });
+    }
+
     function loadData(pageIndex) {
         pageIndex = pageIndex || 1;
         $.ajax({
@@ -13,7 +49,9 @@
             url: '/Admin/Product/GetAll',
             data: {
                 page: pageIndex,
-                pageSize: tedu.config.pageSize
+                pageSize: tedu.config.pageSize,
+                categoryId: $('#ddlCategorySearch').val(),
+                keyword: $('#txtKeyword').val()
             },
             dataType: 'json',
             success: function (response) {

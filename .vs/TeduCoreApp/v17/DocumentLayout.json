@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\.Net\\TeduCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|d:\\.net\\teducoreapp\\teducoreapp.application\\implementations\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|solutionrelative:teducoreapp.application\\implementations\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\wwwroot\\app\\controllers\\product\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\wwwroot\\app\\controllers\\product\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +42,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:19:08.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductCategoryService.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
+              "RelativeToolTip": "TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:17:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "index.js",
               "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
               "RelativeDocumentMoniker": "TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
               "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
               "RelativeToolTip": "TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAwAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-06-24T05:07:52.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-24T05:07:34.152Z",
               "EditorCaption": ""
