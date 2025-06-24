@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O3LP/HQdrZj0U14gmccRgWmL/OL4jFyopGVvfcty1LI=",
+  "Hash": "85WBNi0GBPpQS5SkMCZMZpzfsVZVy2+r7U9Y+Htgujc=",
   "Source": "TeduCoreApp",
   "BasePath": "_content/TeduCoreApp",
   "Mode": "Default",
@@ -1774,8 +1774,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v2ccmowadz",
-      "Integrity": "2YEqRhrhjyuY76ah3unHzR9Ryq3Kk+aidTSwIFvy8b8=",
+      "Fingerprint": "i064a4q0th",
+      "Integrity": "cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app\\controllers\\product\\index.js"
@@ -12741,6 +12741,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\nprogress\\test\\test.js"
+    },
+    {
+      "Identity": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\twbs-pagination\\jquery.twbsPagination.js",
+      "SourceId": "TeduCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\",
+      "BasePath": "_content/TeduCoreApp",
+      "RelativePath": "lib/twbs-pagination/jquery.twbsPagination#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "44fw4o9afl",
+      "Integrity": "hAi2czxj7RB2mQDYBBZcLTPpUvRnPjhyqO5SmuG2OQU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\twbs-pagination\\jquery.twbsPagination.js"
     }
   ],
   "Endpoints": [
@@ -14467,6 +14488,51 @@
       ]
     },
     {
+      "Route": "app/controllers/product/index.i064a4q0th.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 05:32:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i064a4q0th"
+        },
+        {
+          "Name": "label",
+          "Value": "app/controllers/product/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0="
+        }
+      ]
+    },
+    {
       "Route": "app/controllers/product/index.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
       "Selectors": [],
@@ -14477,7 +14543,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1227"
+          "Value": "2281"
         },
         {
           "Name": "Content-Type",
@@ -14485,11 +14551,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2YEqRhrhjyuY76ah3unHzR9Ryq3Kk+aidTSwIFvy8b8=\""
+          "Value": "\"cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 21:56:53 GMT"
+          "Value": "Tue, 24 Jun 2025 05:32:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14499,52 +14565,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2YEqRhrhjyuY76ah3unHzR9Ryq3Kk+aidTSwIFvy8b8="
-        }
-      ]
-    },
-    {
-      "Route": "app/controllers/product/index.v2ccmowadz.js",
-      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1227"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2YEqRhrhjyuY76ah3unHzR9Ryq3Kk+aidTSwIFvy8b8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 21:56:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v2ccmowadz"
-        },
-        {
-          "Name": "label",
-          "Value": "app/controllers/product/index.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2YEqRhrhjyuY76ah3unHzR9Ryq3Kk+aidTSwIFvy8b8="
+          "Value": "sha256-cnEm0/QYNOcm6+fjYE5UMy51S1Y6hUM0dMFHb79LRa0="
         }
       ]
     },
@@ -59573,6 +59594,88 @@
       ]
     },
     {
+      "Route": "lib/twbs-pagination/jquery.twbsPagination.44fw4o9afl.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\twbs-pagination\\jquery.twbsPagination.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hAi2czxj7RB2mQDYBBZcLTPpUvRnPjhyqO5SmuG2OQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "44fw4o9afl"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/twbs-pagination/jquery.twbsPagination.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hAi2czxj7RB2mQDYBBZcLTPpUvRnPjhyqO5SmuG2OQU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/twbs-pagination/jquery.twbsPagination.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\twbs-pagination\\jquery.twbsPagination.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hAi2czxj7RB2mQDYBBZcLTPpUvRnPjhyqO5SmuG2OQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 03:24:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hAi2czxj7RB2mQDYBBZcLTPpUvRnPjhyqO5SmuG2OQU="
+        }
+      ]
+    },
+    {
       "Route": "TeduCoreApp.bundle.scp.css",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TeduCoreApp.bundle.scp.css",
       "Selectors": [],
@@ -59595,7 +59698,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 22:04:55 GMT"
+          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59632,7 +59735,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 22:04:55 GMT"
+          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59677,7 +59780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 22:04:55 GMT"
+          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59722,7 +59825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 22:04:55 GMT"
+          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -19,10 +19,13 @@ namespace TeduCoreApp.Areas.Admin.Views.Controllers
 			return View(products);
 		}
 
-		public IActionResult GetAll()
+		public IActionResult GetAll(int page = 1, int pageSize = 10)
 		{
-			var products = _productService.GetAll();
+			var products = _productService.GetAllPaging(null, null, page, pageSize);
 			return new JsonResult(products);
 		}
+
+
+
 	}
 }

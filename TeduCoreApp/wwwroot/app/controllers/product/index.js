@@ -1,16 +1,25 @@
 ﻿var productController = function () {
     this.initialize = function () {
         loadData();
+        $('#ddlShowPage').on('change', function() {
+            tedu.config.pageSize = $(this).val();
+            loadData(1);
+        });
     }
-    function loadData() {
+    function loadData(pageIndex) {
+        pageIndex = pageIndex || 1;
         $.ajax({
             type: 'GET',
             url: '/Admin/Product/GetAll',
+            data: {
+                page: pageIndex,
+                pageSize: tedu.config.pageSize
+            },
             dataType: 'json',
             success: function (response) {
                 var render = '';
                 var template = $('#table-template').html();
-                $.each(response, function (i, item) {
+                $.each(response.results, function (i, item) {
                     render += Mustache.render(template, {
                         Name: item.name,
                         CategoryName: item.productCategory ? item.productCategory.name : '',
@@ -21,6 +30,21 @@
                     });
                 });
                 $('#tbl-content').html(render);
+                $('#lblTotalRecords').text('Tổng số bản ghi: ' + response.rowCount);
+                // Destroy old pagination before re-init
+                $('#pagination').twbsPagination('destroy');
+                if (response.rowCount > 0) {
+                    $('#pagination').twbsPagination({
+                        totalPages: response.pageCount,
+                        visiblePages: 7,
+                        startPage: response.currentPage,
+                        onPageClick: function (event, page) {
+                            if (page !== pageIndex) {
+                                loadData(page);
+                            }
+                        }
+                    });
+                }
             },
             error: function () {
                 alert('Cannot load data');

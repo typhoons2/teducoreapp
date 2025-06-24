@@ -542,3 +542,4 @@ wwwroot\lib\nprogress\package.json
 wwwroot\lib\nprogress\Readme.md
 wwwroot\lib\nprogress\test\component.html
 wwwroot\lib\nprogress\test\test.js
+wwwroot\lib\twbs-pagination\jquery.twbsPagination.js

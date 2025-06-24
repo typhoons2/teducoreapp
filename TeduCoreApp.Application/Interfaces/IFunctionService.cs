@@ -11,5 +11,6 @@ namespace TeduCoreApp.Application.Interfaces
 	{
 		Task<List<FunctionViewModel>> GetAllAsync();
 		Task<List<FunctionViewModel>> GetAllByPermissionAsync(Guid userId);
+		
 	}
 }

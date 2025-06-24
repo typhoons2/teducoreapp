@@ -2181,6 +2181,10 @@
       "PackagePath": "staticwebassets\\lib\\nprogress\\test\\test.js"
     },
     {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\twbs-pagination\\jquery.twbsPagination.js",
+      "PackagePath": "staticwebassets\\lib\\twbs-pagination\\jquery.twbsPagination.js"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TeduCoreApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
