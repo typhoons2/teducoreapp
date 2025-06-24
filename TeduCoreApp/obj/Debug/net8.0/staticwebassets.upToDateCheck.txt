@@ -20,6 +20,7 @@ wwwroot\admin-side\js\custom.js
 wwwroot\admin-side\js\custom.min.js
 wwwroot\app\controllers\login\index.js
 wwwroot\app\controllers\product\index.js
+wwwroot\app\controllers\product-category\index.js
 wwwroot\app\shared\constants.js
 wwwroot\app\shared\messages.js
 wwwroot\app\shared\tedu.js
@@ -499,6 +500,7 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jQuery-EasyUI\jquery.easyui.min.js
 wwwroot\lib\jquery-sparkline\jquery.sparkline.js
 wwwroot\lib\jquery-sparkline\jquery.sparkline.min.js
 wwwroot\lib\jquery-validation\dist\additional-methods.js

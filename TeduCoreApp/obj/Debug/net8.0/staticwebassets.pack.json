@@ -89,6 +89,10 @@
       "PackagePath": "staticwebassets\\app\\controllers\\login\\index.js"
     },
     {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
+      "PackagePath": "staticwebassets\\app\\controllers\\product-category\\index.js"
+    },
+    {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
       "PackagePath": "staticwebassets\\app\\controllers\\product\\index.js"
     },
@@ -1991,6 +1995,10 @@
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\gentellela\\js\\custom.min.js",
       "PackagePath": "staticwebassets\\lib\\gentellela\\js\\custom.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\jQuery-EasyUI\\jquery.easyui.min.js",
+      "PackagePath": "staticwebassets\\lib\\jQuery-EasyUI\\jquery.easyui.min.js"
     },
     {
       "Id": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\lib\\jquery-sparkline\\jquery.sparkline.js",

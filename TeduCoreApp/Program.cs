@@ -59,6 +59,7 @@ builder.Services.AddTransient<IProductRepository, ProductRepository>();
 builder.Services.AddTransient<IFunctionRepository, FunctionRepository>();
 
 // Services
+
 builder.Services.AddTransient<IProductCategoryService, ProductCategoryService>();
 builder.Services.AddTransient<IProductService, ProductService>();
 builder.Services.AddTransient<IFunctionService, FunctionService>();

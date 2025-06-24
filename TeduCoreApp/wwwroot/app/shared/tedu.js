@@ -110,7 +110,7 @@
         for (var i = 0; i < arr.length; i++) {
             var node = arr[i];
             node.children = [];
-            map[node.Id] = i; // use map to look-up the parents
+            map[node.id] = i; // use map to look-up the parents
         }
         for (var i = 0; i < arr.length; i++) {
             var node = arr[i];
