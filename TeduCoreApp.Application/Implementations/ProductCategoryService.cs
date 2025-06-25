@@ -24,7 +24,7 @@ namespace TeduCoreApp.Application.Implementations
 			_unitOfWork = unitOfWork;
 			_productCategoryRepository = productCategoryRepository;
 		}
-		
+
 		public ProductCategoryViewModel Add(ProductCategoryViewModel productCategoryVm)
 		{
 			var productCategory = Mapper.Map<ProductCategory>(productCategoryVm);
@@ -39,7 +39,12 @@ namespace TeduCoreApp.Application.Implementations
 
 		public List<ProductCategoryViewModel> GetAll()
 		{
-			return _productCategoryRepository.FindAll().OrderBy(x => x.ParentId).ProjectTo<ProductCategoryViewModel>().ToList();
+			return _productCategoryRepository
+				.FindAll()
+				.OrderBy(x => x.ParentId)
+				.ThenBy(x => x.SortOrder)
+				.ProjectTo<ProductCategoryViewModel>()
+				.ToList();
 		}
 
 		public List<ProductCategoryViewModel> GetAll(string keyword)
@@ -49,6 +54,7 @@ namespace TeduCoreApp.Application.Implementations
 				return _productCategoryRepository
 					.FindAll(x => x.Name.Contains(keyword) || x.Description.Contains(keyword))
 					.OrderBy(x => x.ParentId)
+					.ThenBy(x => x.SortOrder)
 					.ProjectTo<ProductCategoryViewModel>()
 					.ToList();
 			}
@@ -77,7 +83,16 @@ namespace TeduCoreApp.Application.Implementations
 
 		public void ReOrder(int sourceId, int targetId)
 		{
-			throw new NotImplementedException();
+			var source = _productCategoryRepository.FindById(sourceId);
+			var target = _productCategoryRepository.FindById(targetId);
+			
+			// Đơn giản: hoán đổi sortOrder
+			var tempOrder = source.SortOrder;
+			source.SortOrder = target.SortOrder;
+			target.SortOrder = tempOrder;
+			
+			_productCategoryRepository.Update(source);
+			_productCategoryRepository.Update(target);
 		}
 
 		public void Save()
@@ -90,9 +105,31 @@ namespace TeduCoreApp.Application.Implementations
 			throw new NotImplementedException();
 		}
 
-		public List<ProductCategoryViewModel> UpdateParentId(int sourceId, int targetId, Dictionary<int, int> items)
+		public void UpdateParentId(int sourceId, int targetId, Dictionary<int, int> items)
 		{
-			throw new NotImplementedException();
+			var sourceCategory = _productCategoryRepository.FindById(sourceId);
+			sourceCategory.ParentId = targetId;
+
+			// Cập nhật sortOrder cho item được kéo thả
+			if (items.ContainsKey(sourceId))
+			{
+				sourceCategory.SortOrder = items[sourceId];
+			}
+
+			_productCategoryRepository.Update(sourceCategory);
+
+			// Lấy danh sách key
+			var keys = items.Keys.ToList();
+
+			// Get all sibling
+			var sibling = _productCategoryRepository.FindAll(x => keys.Contains(x.Id));
+			foreach (var child in sibling)
+			{
+				child.SortOrder = items[child.Id];
+				_productCategoryRepository.Update(child);
+			}
 		}
+
+
 	}
 }

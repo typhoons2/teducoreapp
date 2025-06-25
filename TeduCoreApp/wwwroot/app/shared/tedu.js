@@ -114,8 +114,8 @@
         }
         for (var i = 0; i < arr.length; i++) {
             var node = arr[i];
-            if (node.ParentId != null && map[node.ParentId] !== undefined) {
-                arr[map[node.ParentId]].children.push(node);
+            if (node.parentId != null && map[node.parentId] !== undefined) {
+                arr[map[node.parentId]].children.push(node);
             } else {
                 roots.push(node);
             }

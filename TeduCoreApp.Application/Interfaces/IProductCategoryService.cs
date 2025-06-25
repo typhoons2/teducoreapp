@@ -15,7 +15,7 @@ namespace TeduCoreApp.Application.Interfaces
 		List<ProductCategoryViewModel> GetAll();
 		List<ProductCategoryViewModel> GetAll(string keyword);
 		List<ProductCategoryViewModel> GetAllByParentId(int parentId);
-		List<ProductCategoryViewModel> UpdateParentId(int sourceId, int targetId, Dictionary<int, int> items);
+		void UpdateParentId(int sourceId, int targetId, Dictionary<int, int> items);
 		ProductCategoryViewModel GetById(int id);
 		void ReOrder(int sourceId, int targetId);
 		void Save();

@@ -8,6 +8,9 @@
 *.userosscache
 *.sln.docstates
 
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -24,8 +27,49 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-# Visual Studio cache/options directory
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio 2015/2017 cache/options directory
 .vs/
+# Uncomment if you wish to ignore the project-level JetBrains Rider .idea folder.
+#.idea/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Web workbench (sass)
+.sass-cache/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# TFS
+$tf/
+
+# VS Code
+.vscode/
+
+# Others
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+*.DotSettings
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -75,63 +119,40 @@ artifacts/
 *.svclog
 *.scc
 
-# Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-*.sap
-
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
 
-# NuGet Packages
+# NuGet
 *.nupkg
-# NuGet Symbol Packages
-*.snupkg
 # The packages folder can be ignored because of Package Restore
-**/[Pp]ackages/*
+**/packages/*
 # except build/, which is used as an MSBuild target.
-!**/[Pp]ackages/build/
+!**/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
-#!**/[Pp]ackages/repositories.config
-# NuGet v3's project.json files produces more ignorable files
-*.nuget.props
-*.nuget.targets
+#!**/packages/repositories.config
 
-# Microsoft Azure Build Output
-csx/
-*.build.csdef
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Microsoft Azure Emulator
-ecf/
-rcf/
+# Folder config file
+Desktop.ini
 
-# Windows Store app package directories and files
-AppPackages/
-BundleArtifacts/
-Package.StoreAssociation.xml
-_pkginfo.txt
-*.appx
-*.appxbundle
-*.appxupload
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# Visual Studio cache files
-# files ending in .cache can be ignored
-*.[Cc]ache
-# but keep track of directories ending in .cache
-!?*.[Cc]ache/
+# Windows shortcuts
+*.lnk
 
-# Others
-ClientBin/
-~$*
-*~
-*.dbmdl
-*.dbproj.schemaview
-*.jfm
-*.pfx
-*.publishsettings
-orleans.codegen.cs
+# Dotnet tool restore
+**/.store/
+**/.tools/
+**/.package/
+**/.templateengine/
 
 # Including strong name files can present a security risk
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)

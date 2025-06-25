@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0JqXAUF4nYhytB0Vv8VxAEhKyT5HvPbD8eDhZBum+Oc=",
+  "Hash": "FerhJfQIAeL5+YXyEIgPM61glYirh/a2sk+J6xbcDpc=",
   "Source": "TeduCoreApp",
   "BasePath": "_content/TeduCoreApp",
   "Mode": "Default",
@@ -1795,8 +1795,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7jn9s7ohq6",
-      "Integrity": "nUgz2Cff5xv9MdpH8vkf0hURWB6n1mMfV8PutBTzv80=",
+      "Fingerprint": "rrklrjhhyy",
+      "Integrity": "Z9NZaXFvmpUJmi6O0IKenPtsGs3KrzDAOMEsEiaaYEI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app\\controllers\\product-category\\index.js"
@@ -1858,8 +1858,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vw43760q5u",
-      "Integrity": "YQXbpnd6EhLuzcAEit4ZRumvNGp4qKnWlww0bNiDRSk=",
+      "Fingerprint": "wk7t2h2ch8",
+      "Integrity": "YO44A6AqQ1++2kaZChAhfGazK9voFc2maHheslQVXvs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app\\shared\\tedu.js"
@@ -14612,51 +14612,6 @@
       ]
     },
     {
-      "Route": "app/controllers/product-category/index.7jn9s7ohq6.js",
-      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "923"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nUgz2Cff5xv9MdpH8vkf0hURWB6n1mMfV8PutBTzv80=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 08:01:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7jn9s7ohq6"
-        },
-        {
-          "Name": "label",
-          "Value": "app/controllers/product-category/index.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nUgz2Cff5xv9MdpH8vkf0hURWB6n1mMfV8PutBTzv80="
-        }
-      ]
-    },
-    {
       "Route": "app/controllers/product-category/index.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
       "Selectors": [],
@@ -14667,7 +14622,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "923"
+          "Value": "5922"
         },
         {
           "Name": "Content-Type",
@@ -14675,11 +14630,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nUgz2Cff5xv9MdpH8vkf0hURWB6n1mMfV8PutBTzv80=\""
+          "Value": "\"Z9NZaXFvmpUJmi6O0IKenPtsGs3KrzDAOMEsEiaaYEI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 08:01:02 GMT"
+          "Value": "Wed, 25 Jun 2025 05:17:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14689,7 +14644,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nUgz2Cff5xv9MdpH8vkf0hURWB6n1mMfV8PutBTzv80="
+          "Value": "sha256-Z9NZaXFvmpUJmi6O0IKenPtsGs3KrzDAOMEsEiaaYEI="
+        }
+      ]
+    },
+    {
+      "Route": "app/controllers/product-category/index.rrklrjhhyy.js",
+      "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9NZaXFvmpUJmi6O0IKenPtsGs3KrzDAOMEsEiaaYEI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 05:17:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rrklrjhhyy"
+        },
+        {
+          "Name": "label",
+          "Value": "app/controllers/product-category/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9NZaXFvmpUJmi6O0IKenPtsGs3KrzDAOMEsEiaaYEI="
         }
       ]
     },
@@ -14876,11 +14876,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YQXbpnd6EhLuzcAEit4ZRumvNGp4qKnWlww0bNiDRSk=\""
+          "Value": "\"YO44A6AqQ1++2kaZChAhfGazK9voFc2maHheslQVXvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 07:58:51 GMT"
+          "Value": "Wed, 25 Jun 2025 03:34:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14890,12 +14890,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YQXbpnd6EhLuzcAEit4ZRumvNGp4qKnWlww0bNiDRSk="
+          "Value": "sha256-YO44A6AqQ1++2kaZChAhfGazK9voFc2maHheslQVXvs="
         }
       ]
     },
     {
-      "Route": "app/shared/tedu.vw43760q5u.js",
+      "Route": "app/shared/tedu.wk7t2h2ch8.js",
       "AssetFile": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\shared\\tedu.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -14913,11 +14913,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YQXbpnd6EhLuzcAEit4ZRumvNGp4qKnWlww0bNiDRSk=\""
+          "Value": "\"YO44A6AqQ1++2kaZChAhfGazK9voFc2maHheslQVXvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 07:58:51 GMT"
+          "Value": "Wed, 25 Jun 2025 03:34:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14927,7 +14927,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vw43760q5u"
+          "Value": "wk7t2h2ch8"
         },
         {
           "Name": "label",
@@ -14935,7 +14935,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YQXbpnd6EhLuzcAEit4ZRumvNGp4qKnWlww0bNiDRSk="
+          "Value": "sha256-YO44A6AqQ1++2kaZChAhfGazK9voFc2maHheslQVXvs="
         }
       ]
     },
@@ -59904,7 +59904,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
+          "Value": "Wed, 25 Jun 2025 03:16:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59941,7 +59941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
+          "Value": "Wed, 25 Jun 2025 03:16:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -59986,7 +59986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
+          "Value": "Wed, 25 Jun 2025 03:16:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -60031,7 +60031,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 24 Jun 2025 05:37:33 GMT"
+          "Value": "Wed, 25 Jun 2025 03:16:39 GMT"
         },
         {
           "Name": "Cache-Control",

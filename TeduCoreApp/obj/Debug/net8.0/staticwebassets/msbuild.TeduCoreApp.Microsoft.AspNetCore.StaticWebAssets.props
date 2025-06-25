@@ -390,8 +390,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7jn9s7ohq6</Fingerprint>
-      <Integrity>nUgz2Cff5xv9MdpH8vkf0hURWB6n1mMfV8PutBTzv80=</Integrity>
+      <Fingerprint>rrklrjhhyy</Fingerprint>
+      <Integrity>Z9NZaXFvmpUJmi6O0IKenPtsGs3KrzDAOMEsEiaaYEI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app\controllers\product-category\index.js'))</OriginalItemSpec>
@@ -462,8 +462,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vw43760q5u</Fingerprint>
-      <Integrity>YQXbpnd6EhLuzcAEit4ZRumvNGp4qKnWlww0bNiDRSk=</Integrity>
+      <Fingerprint>wk7t2h2ch8</Fingerprint>
+      <Integrity>YO44A6AqQ1++2kaZChAhfGazK9voFc2maHheslQVXvs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app\shared\tedu.js'))</OriginalItemSpec>
