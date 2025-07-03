@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 using TeduCoreApp.Infrastructure.Interfaces;
 using TeduCoreApp.Infrastructure.SharedKernel;
@@ -58,7 +58,11 @@ namespace TeduCoreApp.Data.EF
 
 		public void Remove(K id)
 		{
-			Remove(FindById(id));
+			var entity = FindById(id);
+			if (entity != null)
+			{
+				Remove(entity);
+			}
 		}
 
 		public void RemoveMultiple(List<T> entities)
