@@ -4,8 +4,10 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using TeduCoreApp.Data.Entities;
-using TeduCoreApp.Data.IRepositories;
+using TeduCoreApp.Domain.Entities;
+using TeduCoreApp.Domain.Repositories;
+using TeduCoreApp.Infrastructure.Persistence.DbContext;
+using TeduCoreApp.Infrastructure.Repositories;
 
 namespace TeduCoreApp.Data.EF.Repositories
 {

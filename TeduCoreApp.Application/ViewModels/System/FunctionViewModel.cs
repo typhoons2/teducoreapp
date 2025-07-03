@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using TeduCoreApp.Data.Enums;
+using TeduCoreApp.Domain.Enums;
 
 namespace TeduCoreApp.Application.ViewModels.System
 {

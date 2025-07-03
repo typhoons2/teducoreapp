@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using TeduCoreApp.Data.Entities;
+using TeduCoreApp.Domain.Entities;
 
-namespace TeduCoreApp.Data.EF.Configurations
+namespace TeduCoreApp.Infrastructure.Configurations
 {
 	public class TagConfiguration : IEntityTypeConfiguration<Tag>
 	{

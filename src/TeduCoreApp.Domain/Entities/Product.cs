@@ -6,9 +6,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TeduCoreApp.Data.Enums;
-using TeduCoreApp.Data.Interfaces;
-using TeduCoreApp.Infrastructure.SharedKernel;
+using TeduCoreApp.Domain.Enums;
+using TeduCoreApp.Domain.Interfaces;
+using TeduCoreApp.Domain.SharedKernel;
 
 
 /*
@@ -30,7 +30,7 @@ Product
 	NewFlg
 	Status
 */
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	[Table("Products")]
 	public class Product : DomainEntity<int>, ISwitchable, IDateTracking, IHasSeoMetaData

@@ -1,11 +1,11 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduCoreApp.Data.Enums;
-using TeduCoreApp.Data.Interfaces;
-using TeduCoreApp.Infrastructure.SharedKernel;
+using TeduCoreApp.Domain.Enums;
+using TeduCoreApp.Domain.Interfaces;
+using TeduCoreApp.Domain.SharedKernel;
 
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {		
 	[Table("Bills")]
     public class Bill : DomainEntity<int>, ISwitchable, IDateTracking

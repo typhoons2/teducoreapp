@@ -1,34 +1,32 @@
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TeduCoreApp.Application.Interfaces;
 using TeduCoreApp.Application.ViewModels.Product;
-using TeduCoreApp.Data.Entities;
-using TeduCoreApp.Data.Enums;
-using TeduCoreApp.Data.IRepositories;
-using TeduCoreApp.Infrastructure.Interfaces;
+using TeduCoreApp.Domain.Entities;
+using TeduCoreApp.Domain.Enums;
+using TeduCoreApp.Domain.Repositories;
 using TeduCoreApp.Utilities.Dtos;
 
 namespace TeduCoreApp.Application.Implementations
 {
 	public class ProductService : IProductService
 	{
-		private IUnitOfWork _unitOfWork;
-		private IProductRepository _productRepository;
-		public ProductService(IUnitOfWork unitOfWork, IProductRepository productRepository)
+		private readonly IUnitOfWork _unitOfWork;
+		private readonly IProductRepository _productRepository;
+		private readonly IMapper _mapper;
+		private readonly IConfigurationProvider _mapperConfig;
+
+		public ProductService(IUnitOfWork unitOfWork, IProductRepository productRepository, IMapper mapper)
 		{
 			_unitOfWork = unitOfWork;
 			_productRepository = productRepository;
+			_mapper = mapper;
+			_mapperConfig = mapper.ConfigurationProvider;
 		}
 		
 		public ProductViewModel Add(ProductViewModel productVm)
 		{
-			var product = Mapper.Map<Product>(productVm);
+			var product = _mapper.Map<Product>(productVm);
 			_productRepository.Add(product);
 			return productVm;
 		}
@@ -40,7 +38,10 @@ namespace TeduCoreApp.Application.Implementations
 
 		public List<ProductViewModel> GetAll()
 		{
-			return _productRepository.FindAll(x => x.ProductCategory).ProjectTo<ProductViewModel>().ToList();
+			return _productRepository
+				.FindAll(x => x.ProductCategory)
+				.ProjectTo<ProductViewModel>(_mapperConfig)
+				.ToList();
 		}
 
 		public List<ProductViewModel> GetAll(string keyword)
@@ -49,14 +50,14 @@ namespace TeduCoreApp.Application.Implementations
 			{
 				return _productRepository
 					.FindAll(x => x.Name.Contains(keyword) || x.Description.Contains(keyword), x => x.ProductCategory)
-					.ProjectTo<ProductViewModel>()
+					.ProjectTo<ProductViewModel>(_mapperConfig)
 					.ToList();
 			}
 			else
 			{
 				return _productRepository
 					.FindAll(x => x.ProductCategory)
-					.ProjectTo<ProductViewModel>()
+					.ProjectTo<ProductViewModel>(_mapperConfig)
 					.ToList();
 			}
 		}
@@ -74,7 +75,7 @@ namespace TeduCoreApp.Application.Implementations
 			query = query.OrderByDescending(x => x.DateCreated)
 				.Skip((page - 1) * pageSize).Take(pageSize);
 
-			var data = query.ProjectTo<ProductViewModel>().ToList();
+			var data = query.ProjectTo<ProductViewModel>(_mapperConfig).ToList();
 
 			var paginationSet = new PagedResult<ProductViewModel>()
 			{
@@ -88,7 +89,7 @@ namespace TeduCoreApp.Application.Implementations
 
 		public ProductViewModel GetById(int id)
 		{
-			return Mapper.Map<Product, ProductViewModel>(_productRepository.FindById(id, x => x.ProductCategory));
+			return _mapper.Map<ProductViewModel>(_productRepository.FindById(id, x => x.ProductCategory));
 		}
 
 		public void Save()
@@ -98,7 +99,7 @@ namespace TeduCoreApp.Application.Implementations
 
 		public void Update(ProductViewModel productVm)
 		{
-			var product = Mapper.Map<Product>(productVm);
+			var product = _mapper.Map<Product>(productVm);
 			_productRepository.Update(product);
 		}
 	}

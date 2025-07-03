@@ -1,4 +1,4 @@
-﻿namespace TeduCoreApp.Data.Interfaces
+﻿namespace TeduCoreApp.Domain.Interfaces
 {
 	public interface IHasSeoMetaData
 	{

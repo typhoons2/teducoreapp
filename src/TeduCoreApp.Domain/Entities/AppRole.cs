@@ -1,23 +1,24 @@
-﻿using Microsoft.AspNetCore.Identity; // <-- Dòng này rất quan trọng!
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System;
+using TeduCoreApp.Domain.SharedKernel;
 
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	[Table("AppRoles")]
-	public class AppRole : IdentityRole<Guid>
+	public class AppRole : DomainEntity<Guid>
 	{
-		public AppRole() : base()
-		{
+		public AppRole() { }
 
-		}
-		public AppRole(string name, string description) : base(name)
+		public AppRole(string name, string description)
 		{
-			this.Description = description;
+			Name        = name;
+			Description = description;
 		}
+
+		[Required, StringLength(250)]
+		public string Name { get; private set; }
 
 		[StringLength(250)]
-		public string Description { get; set; }
+		public string Description { get; private set; }
 	}
 }

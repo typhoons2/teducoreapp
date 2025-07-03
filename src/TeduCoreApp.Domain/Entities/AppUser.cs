@@ -1,23 +1,18 @@
-﻿using Microsoft.AspNetCore.Identity;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TeduCoreApp.Data.Enums;
-using TeduCoreApp.Data.Interfaces;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using TeduCoreApp.Domain.Enums;
+using TeduCoreApp.Domain.Interfaces;
+using TeduCoreApp.Domain.SharedKernel;
 
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	[Table("AppUsers")]
-    public class AppUser : IdentityUser<Guid>, IDateTracking, ISwitchable
+    public class AppUser : DomainEntity<Guid>, IDateTracking, ISwitchable
     {
         // Tên đầy đủ của người dùng
         public string FullName { get; set; }
 
         // Ngày sinh của người dùng
-        public DateTime? BirthDay { set; get; }
+        public DateTime? BirthDay { get; set; }
 
         // Số dư tài khoản của người dùng
         public decimal Balance { get; set; }

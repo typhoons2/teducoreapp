@@ -4,10 +4,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TeduCoreApp.Infrastructure.SharedKernel;
+using TeduCoreApp.Domain.SharedKernel;
 using System.ComponentModel.DataAnnotations;
 
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	[Table("AdvertistmentPages")]
     public class AdvertistmentPage : DomainEntity<string>

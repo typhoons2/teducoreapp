@@ -5,10 +5,10 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TeduCoreApp.Data.Enums;
-using TeduCoreApp.Infrastructure.SharedKernel;
+using TeduCoreApp.Domain.Enums;
+using TeduCoreApp.Domain.SharedKernel;
 
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	//Bảng liên hệ
 	[Table("ContactDetails")]

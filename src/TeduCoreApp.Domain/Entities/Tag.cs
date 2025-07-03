@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduCoreApp.Infrastructure.SharedKernel;
+using TeduCoreApp.Domain.SharedKernel;
 
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	public class Tag : DomainEntity<string>
 	{

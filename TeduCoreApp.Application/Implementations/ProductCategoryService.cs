@@ -1,33 +1,31 @@
 ﻿using AutoMapper;
 using AutoMapper.QueryableExtensions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TeduCoreApp.Application.Interfaces;
 using TeduCoreApp.Application.ViewModels.Product;
-using TeduCoreApp.Data.Entities;
-using TeduCoreApp.Data.Enums;
-using TeduCoreApp.Data.IRepositories;
-using TeduCoreApp.Infrastructure.Interfaces;
+using TeduCoreApp.Domain.Entities;
+using TeduCoreApp.Domain.Enums;
+using TeduCoreApp.Domain.Repositories;
 
 namespace TeduCoreApp.Application.Implementations
 {
 	public class ProductCategoryService : IProductCategoryService
 	{
-		private IUnitOfWork _unitOfWork;
-		private IProductCategoryRepository _productCategoryRepository;
-		public ProductCategoryService(IUnitOfWork unitOfWork, IProductCategoryRepository productCategoryRepository)
-		{
+		private readonly IUnitOfWork _unitOfWork;
+		private readonly IProductCategoryRepository _productCategoryRepository;
+		private readonly IMapper _mapper;
+		private readonly IConfigurationProvider _mapperConfig;
 
+		public ProductCategoryService(IUnitOfWork unitOfWork, IProductCategoryRepository productCategoryRepository, IMapper mapper)
+		{
 			_unitOfWork = unitOfWork;
 			_productCategoryRepository = productCategoryRepository;
+			_mapper = mapper;
+			_mapperConfig = mapper.ConfigurationProvider;
 		}
 
 		public ProductCategoryViewModel Add(ProductCategoryViewModel productCategoryVm)
 		{
-			var productCategory = Mapper.Map<ProductCategory>(productCategoryVm);
+			var productCategory = _mapper.Map<ProductCategory>(productCategoryVm);
 			_productCategoryRepository.Add(productCategory);
 			return productCategoryVm;
 		}
@@ -43,7 +41,7 @@ namespace TeduCoreApp.Application.Implementations
 				.FindAll()
 				.OrderBy(x => x.ParentId)
 				.ThenBy(x => x.SortOrder)
-				.ProjectTo<ProductCategoryViewModel>()
+				.ProjectTo<ProductCategoryViewModel>(_mapperConfig)
 				.ToList();
 		}
 
@@ -55,7 +53,7 @@ namespace TeduCoreApp.Application.Implementations
 					.FindAll(x => x.Name.Contains(keyword) || x.Description.Contains(keyword))
 					.OrderBy(x => x.ParentId)
 					.ThenBy(x => x.SortOrder)
-					.ProjectTo<ProductCategoryViewModel>()
+					.ProjectTo<ProductCategoryViewModel>(_mapperConfig)
 					.ToList();
 			}
 			else
@@ -63,7 +61,7 @@ namespace TeduCoreApp.Application.Implementations
 				return _productCategoryRepository
 					.FindAll()
 					.OrderBy(x => x.ParentId)
-					.ProjectTo<ProductCategoryViewModel>()
+					.ProjectTo<ProductCategoryViewModel>(_mapperConfig)
 					.ToList();
 			}
 		}
@@ -72,13 +70,13 @@ namespace TeduCoreApp.Application.Implementations
 		{
 			return _productCategoryRepository
 				.FindAll(x => x.Status == Status.Active && x.ParentId == parentId)
-				.ProjectTo<ProductCategoryViewModel>()
+				.ProjectTo<ProductCategoryViewModel>(_mapperConfig)
 				.ToList();
 		}
 
 		public ProductCategoryViewModel GetById(int id)
 		{
-			return Mapper.Map<ProductCategory, ProductCategoryViewModel>(_productCategoryRepository.FindById(id));
+			return _mapper.Map<ProductCategory, ProductCategoryViewModel>(_productCategoryRepository.FindById(id));
 		}
 
 		public void ReOrder(int sourceId, int targetId)
@@ -102,7 +100,14 @@ namespace TeduCoreApp.Application.Implementations
 
 		public void Update(ProductCategoryViewModel productCategoryVm)
 		{
-			throw new NotImplementedException();
+			// Lấy ra entity hiện tại
+			var productCategory = _productCategoryRepository.FindById(productCategoryVm.Id);
+
+			// Map các thay đổi từ ViewModel sang entity
+			_mapper.Map(productCategoryVm, productCategory);
+
+			// Cập nhật lại entity
+			_productCategoryRepository.Update(productCategory);
 		}
 
 		public void UpdateParentId(int sourceId, int targetId, Dictionary<int, int> items)

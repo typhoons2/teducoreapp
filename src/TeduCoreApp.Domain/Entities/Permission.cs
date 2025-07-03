@@ -5,9 +5,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TeduCoreApp.Infrastructure.SharedKernel;
+using TeduCoreApp.Domain.SharedKernel;
 
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	//Bảng quyền
 	[Table("Permissions")]
@@ -34,7 +34,7 @@ namespace TeduCoreApp.Data.Entities
 		//Có thể xóa
 		public bool CanDelete { set; get; }
 
-		//Vai trò
+		////Vai trò
 		[ForeignKey("RoleId")]
 		public virtual AppRole AppRole { get; set; }
 

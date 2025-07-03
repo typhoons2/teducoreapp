@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TeduCoreApp.Data.Entities;
-using TeduCoreApp.Data.Enums;
+using TeduCoreApp.Domain.Enums;
 
 namespace TeduCoreApp.Application.ViewModels.Product
 {

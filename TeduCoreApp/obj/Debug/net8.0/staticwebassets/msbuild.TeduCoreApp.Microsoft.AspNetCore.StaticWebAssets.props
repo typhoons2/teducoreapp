@@ -390,8 +390,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rrklrjhhyy</Fingerprint>
-      <Integrity>Z9NZaXFvmpUJmi6O0IKenPtsGs3KrzDAOMEsEiaaYEI=</Integrity>
+      <Fingerprint>ufyzcplgq1</Fingerprint>
+      <Integrity>Gnll170pHO8t1ITt0/AFRAHXUpGZkpCWlRHP1Yt2E1s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app\controllers\product-category\index.js'))</OriginalItemSpec>

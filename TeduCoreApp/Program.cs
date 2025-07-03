@@ -5,12 +5,14 @@ using Serilog;
 using TeduCoreApp.Application.AutoMapper;
 using TeduCoreApp.Application.Implementations;
 using TeduCoreApp.Application.Interfaces;
-using TeduCoreApp.Data.EF;
 using TeduCoreApp.Data.EF.Repositories;
-using TeduCoreApp.Data.Entities;
-using TeduCoreApp.Data.IRepositories;
+using TeduCoreApp.Domain.Entities;
+using TeduCoreApp.Domain.Repositories;
 using TeduCoreApp.Helpers;
-using TeduCoreApp.Infrastructure.Interfaces;
+using TeduCoreApp.Infrastructure.Identity.Entities;
+using TeduCoreApp.Infrastructure.Persistence.DbContext;
+using TeduCoreApp.Infrastructure.Persistence.SeedData;
+using TeduCoreApp.Infrastructure.Repositories;
 
 
 
@@ -24,7 +26,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddTransient<DbInitializer>();
 
-builder.Services.AddIdentity<AppUser, AppRole>()
+builder.Services.AddIdentity<ApplicationUser, ApplicationRole>()
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
 
@@ -33,9 +35,9 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.LoginPath = "/Admin/Login/Index";
 });
 
-builder.Services.AddScoped<UserManager<AppUser>, UserManager<AppUser>>();
-builder.Services.AddScoped<RoleManager<AppRole>, RoleManager<AppRole>>();
-builder.Services.AddScoped<IUserClaimsPrincipalFactory<AppUser>, CustomClaimsPrincipalFactory>();
+// The default Identity services registered above already add UserManager<ApplicationUser> and RoleManager<ApplicationRole>
+// Custom claims principal factory can be added using ApplicationUser & ApplicationRole if needed.
+builder.Services.AddScoped<IUserClaimsPrincipalFactory<ApplicationUser>, CustomClaimsPrincipalFactory>();
 
 
 Log.Logger = new LoggerConfiguration()
@@ -70,11 +72,9 @@ builder.Services.AddTransient<IFunctionService, FunctionService>();
 //        options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.DefaultContractResolver();
 //    });
 
-builder.Services.AddControllersWithViews();
-builder.Services.AddRazorPages(); //
-
-
-
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
@@ -89,6 +89,8 @@ using (var scope = app.Services.CreateScope())
 if (app.Environment.IsDevelopment())    
 {
     app.UseMigrationsEndPoint();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 else
 {
@@ -123,8 +125,7 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-    //pattern: "{controller=Login}/{action=Index}/{id?}",
-    //defaults: new { area = "Admin" });
-app.MapRazorPages();
+
+app.MapControllers();
 
 app.Run();

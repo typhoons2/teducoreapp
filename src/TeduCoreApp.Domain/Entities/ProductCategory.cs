@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TeduCoreApp.Data.Interfaces;
-using TeduCoreApp.Data.Enums;
-using TeduCoreApp.Infrastructure.SharedKernel;
+using TeduCoreApp.Domain.Interfaces;
+using TeduCoreApp.Domain.Enums;
+using TeduCoreApp.Domain.SharedKernel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace TeduCoreApp.Data.Entities
+namespace TeduCoreApp.Domain.Entities
 {
 	[Table("ProductCategories")]
 	public class ProductCategory : DomainEntity<int>, IHasSeoMetaData, ISwitchable, IDateTracking, ISortable

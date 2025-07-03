@@ -1,24 +1,24 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using System.Security.Claims;
-using TeduCoreApp.Data.Entities;
+using TeduCoreApp.Infrastructure.Identity.Entities;
 
 namespace TeduCoreApp.Helpers
 {
-	public class CustomClaimsPrincipalFactory : UserClaimsPrincipalFactory<AppUser, AppRole>
+	public class CustomClaimsPrincipalFactory : UserClaimsPrincipalFactory<ApplicationUser, ApplicationRole>
 	{
-		private readonly UserManager<AppUser> _userManager;
+		private readonly UserManager<ApplicationUser> _userManager;
 
 		public CustomClaimsPrincipalFactory(
-			UserManager<AppUser> userManager, 
-			RoleManager<AppRole> roleManager, 
+			UserManager<ApplicationUser> userManager, 
+			RoleManager<ApplicationRole> roleManager, 
 			IOptions<IdentityOptions> options) 
 			: base(userManager, roleManager, options)
 		{
 			_userManager = userManager;
 		}
 
-		public override async Task<ClaimsPrincipal> CreateAsync(AppUser user)
+		public override async Task<ClaimsPrincipal> CreateAsync(ApplicationUser user)
 		{
 			var principal = await base.CreateAsync(user);
 			

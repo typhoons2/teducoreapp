@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeduCoreApp.Data.Interfaces
+namespace TeduCoreApp.Domain.Interfaces
 {
 	public interface IMultiLanguage<T>
 	{

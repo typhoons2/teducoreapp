@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using TeduCoreApp.Data.Entities;
+using TeduCoreApp.Domain.Entities;
 using TeduCoreApp.Models;
 using TeduCoreApp.Utilities.Dtos;
 

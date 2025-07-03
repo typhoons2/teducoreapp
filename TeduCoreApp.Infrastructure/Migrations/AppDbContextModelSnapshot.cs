@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using TeduCoreApp.Data.EF;
+using TeduCoreApp.Infrastructure.Persistence.DbContext;
 
 #nullable disable
 
-namespace TeduCoreApp.Data.EF.Migrations
+namespace TeduCoreApp.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
@@ -123,7 +123,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("AppUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Advertistment", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Advertistment", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -175,7 +175,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Advertistments");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AdvertistmentPage", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AdvertistmentPage", b =>
                 {
                     b.Property<string>("Id")
                         .HasMaxLength(20)
@@ -190,7 +190,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("AdvertistmentPages");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AdvertistmentPosition", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AdvertistmentPosition", b =>
                 {
                     b.Property<string>("Id")
                         .HasMaxLength(20)
@@ -213,7 +213,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("AdvertistmentPositions");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Announcement", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Announcement", b =>
                 {
                     b.Property<string>("Id")
                         .HasMaxLength(128)
@@ -248,7 +248,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Announcements");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AnnouncementUser", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AnnouncementUser", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -276,108 +276,76 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("AnnouncementUsers");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AppRole", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AppRole", b =>
                 {
                     b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
-
-                    b.Property<string>("ConcurrencyStamp")
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Description")
                         .IsRequired()
+                        .ValueGeneratedOnUpdateSometimes()
                         .HasMaxLength(250)
-                        .HasColumnType("nvarchar(250)");
+                        .HasColumnType("nvarchar(250)")
+                        .HasColumnName("Description");
 
                     b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("NormalizedName")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
+                        .HasColumnName("Name");
 
                     b.HasKey("Id");
 
-                    b.ToTable("AppRoles");
+                    b.ToTable("AppRoles", (string)null);
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AppUser", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AppUser", b =>
                 {
                     b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
-
-                    b.Property<int>("AccessFailedCount")
-                        .HasColumnType("int");
 
                     b.Property<string>("Avatar")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Avatar");
 
                     b.Property<decimal>("Balance")
-                        .HasColumnType("decimal(18,2)");
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("Balance");
 
                     b.Property<DateTime?>("BirthDay")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("ConcurrencyStamp")
-                        .HasColumnType("nvarchar(max)");
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("datetime2")
+                        .HasColumnName("BirthDay");
 
                     b.Property<DateTime>("DateCreated")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DateCreated");
 
                     b.Property<DateTime>("DateModified")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Email")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("EmailConfirmed")
-                        .HasColumnType("bit");
+                        .HasColumnType("datetime2")
+                        .HasColumnName("DateModified");
 
                     b.Property<string>("FullName")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("LockoutEnabled")
-                        .HasColumnType("bit");
-
-                    b.Property<DateTimeOffset?>("LockoutEnd")
-                        .HasColumnType("datetimeoffset");
-
-                    b.Property<string>("NormalizedEmail")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("NormalizedUserName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PasswordHash")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PhoneNumber")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool>("PhoneNumberConfirmed")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("SecurityStamp")
-                        .HasColumnType("nvarchar(max)");
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("FullName");
 
                     b.Property<int>("Status")
-                        .HasColumnType("int");
-
-                    b.Property<bool>("TwoFactorEnabled")
-                        .HasColumnType("bit");
-
-                    b.Property<string>("UserName")
-                        .HasColumnType("nvarchar(max)");
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("int")
+                        .HasColumnName("Status");
 
                     b.HasKey("Id");
 
-                    b.ToTable("AppUsers");
+                    b.ToTable("AppUsers", (string)null);
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Bill", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Bill", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -430,7 +398,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Bills");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.BillDetail", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.BillDetail", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -469,7 +437,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("BillDetails");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Blog", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Blog", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -543,7 +511,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Blogs");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.BlogTag", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.BlogTag", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd()
@@ -566,7 +534,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("BlogTags");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Color", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Color", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -589,7 +557,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Colors");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Contact", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Contact", b =>
                 {
                     b.Property<string>("Id")
                         .HasMaxLength(250)
@@ -638,7 +606,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("ContactDetails");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Feedback", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Feedback", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -675,7 +643,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Feedbacks");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Footer", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Footer", b =>
                 {
                     b.Property<string>("Id")
                         .HasMaxLength(250)
@@ -690,7 +658,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Footers");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Function", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Function", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("varchar(128)");
@@ -725,7 +693,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Functions");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Language", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Language", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
@@ -750,7 +718,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Languages");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Page", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Page", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd()
@@ -779,7 +747,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Pages");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Permission", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Permission", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -816,7 +784,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Permissions");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Product", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Product", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -907,7 +875,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Products");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductCategory", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductCategory", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -976,7 +944,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("ProductCategories");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductImage", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductImage", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -1004,7 +972,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("ProductImages");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductQuantity", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductQuantity", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -1038,7 +1006,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("ProductQuantities");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductTag", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductTag", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -1063,7 +1031,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("ProductTags");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Size", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Size", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -1081,7 +1049,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Sizes");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Slide", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Slide", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -1129,7 +1097,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Slides");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.SystemConfig", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.SystemConfig", b =>
                 {
                     b.Property<string>("Id")
                         .HasMaxLength(255)
@@ -1164,7 +1132,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("SystemConfigs");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Tag", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Tag", b =>
                 {
                     b.Property<string>("Id")
                         .HasMaxLength(50)
@@ -1185,7 +1153,7 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("Tags");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.WholePrice", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.WholePrice", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -1212,9 +1180,120 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.ToTable("WholePrices");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Advertistment", b =>
+            modelBuilder.Entity("TeduCoreApp.Infrastructure.Identity.Entities.ApplicationRole", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.AdvertistmentPosition", "AdvertistmentPosition")
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
+                        .HasColumnName("Description");
+
+                    b.Property<string>("Name")
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
+                        .HasColumnName("Name");
+
+                    b.Property<string>("NormalizedName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AppRoles", (string)null);
+                });
+
+            modelBuilder.Entity("TeduCoreApp.Infrastructure.Identity.Entities.ApplicationUser", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("AccessFailedCount")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Avatar")
+                        .IsRequired()
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Avatar");
+
+                    b.Property<decimal>("Balance")
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("Balance");
+
+                    b.Property<DateTime?>("BirthDay")
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("datetime2")
+                        .HasColumnName("BirthDay");
+
+                    b.Property<string>("ConcurrencyStamp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("EmailConfirmed")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("FullName")
+                        .IsRequired()
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
+                        .HasColumnName("FullName");
+
+                    b.Property<bool>("LockoutEnabled")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTimeOffset?>("LockoutEnd")
+                        .HasColumnType("datetimeoffset");
+
+                    b.Property<string>("NormalizedEmail")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NormalizedUserName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PasswordHash")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("PhoneNumberConfirmed")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("SecurityStamp")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Status")
+                        .ValueGeneratedOnUpdateSometimes()
+                        .HasColumnType("int")
+                        .HasColumnName("Status");
+
+                    b.Property<bool>("TwoFactorEnabled")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("UserName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AppUsers", (string)null);
+                });
+
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Advertistment", b =>
+                {
+                    b.HasOne("TeduCoreApp.Domain.Entities.AdvertistmentPosition", "AdvertistmentPosition")
                         .WithMany("Advertistments")
                         .HasForeignKey("PositionId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1223,9 +1302,9 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("AdvertistmentPosition");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AdvertistmentPosition", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AdvertistmentPosition", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.AdvertistmentPage", "AdvertistmentPage")
+                    b.HasOne("TeduCoreApp.Domain.Entities.AdvertistmentPage", "AdvertistmentPage")
                         .WithMany("AdvertistmentPositions")
                         .HasForeignKey("PageId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1234,9 +1313,9 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("AdvertistmentPage");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Announcement", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Announcement", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.AppUser", "AppUser")
+                    b.HasOne("TeduCoreApp.Domain.Entities.AppUser", "AppUser")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1245,15 +1324,15 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("AppUser");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AnnouncementUser", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AnnouncementUser", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Announcement", "Announcement")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Announcement", "Announcement")
                         .WithMany("AnnouncementUsers")
                         .HasForeignKey("AnnouncementId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.AppUser", "AppUser")
+                    b.HasOne("TeduCoreApp.Domain.Entities.AppUser", "AppUser")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Restrict)
@@ -1264,9 +1343,27 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("AppUser");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Bill", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AppRole", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.AppUser", "User")
+                    b.HasOne("TeduCoreApp.Infrastructure.Identity.Entities.ApplicationRole", null)
+                        .WithOne()
+                        .HasForeignKey("TeduCoreApp.Domain.Entities.AppRole", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AppUser", b =>
+                {
+                    b.HasOne("TeduCoreApp.Infrastructure.Identity.Entities.ApplicationUser", null)
+                        .WithOne()
+                        .HasForeignKey("TeduCoreApp.Domain.Entities.AppUser", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Bill", b =>
+                {
+                    b.HasOne("TeduCoreApp.Domain.Entities.AppUser", "User")
                         .WithMany()
                         .HasForeignKey("CustomerId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1275,27 +1372,27 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.BillDetail", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.BillDetail", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Bill", "Bill")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Bill", "Bill")
                         .WithMany("BillDetails")
                         .HasForeignKey("BillId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.Color", "Color")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Color", "Color")
                         .WithMany()
                         .HasForeignKey("ColorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.Product", "Product")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.Size", "Size")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Size", "Size")
                         .WithMany()
                         .HasForeignKey("SizeId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1310,15 +1407,15 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("Size");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.BlogTag", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.BlogTag", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Blog", "Blog")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Blog", "Blog")
                         .WithMany("BlogTags")
                         .HasForeignKey("BlogId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.Tag", "Tag")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Tag", "Tag")
                         .WithMany()
                         .HasForeignKey("TagId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1329,15 +1426,15 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("Tag");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Permission", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Permission", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Function", "Function")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Function", "Function")
                         .WithMany()
                         .HasForeignKey("FunctionId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.AppRole", "AppRole")
+                    b.HasOne("TeduCoreApp.Domain.Entities.AppRole", "AppRole")
                         .WithMany()
                         .HasForeignKey("RoleId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1348,9 +1445,9 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("Function");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Product", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Product", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.ProductCategory", "ProductCategory")
+                    b.HasOne("TeduCoreApp.Domain.Entities.ProductCategory", "ProductCategory")
                         .WithMany("Products")
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1359,9 +1456,9 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("ProductCategory");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductImage", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductImage", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Product", "Product")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1370,21 +1467,21 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("Product");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductQuantity", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductQuantity", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Color", "Color")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Color", "Color")
                         .WithMany()
                         .HasForeignKey("ColorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.Product", "Product")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.Size", "Size")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Size", "Size")
                         .WithMany()
                         .HasForeignKey("SizeId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1397,15 +1494,15 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("Size");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductTag", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductTag", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Product", "Product")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("TeduCoreApp.Data.Entities.Tag", "Tag")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Tag", "Tag")
                         .WithMany()
                         .HasForeignKey("TagId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1416,9 +1513,9 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("Tag");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.WholePrice", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.WholePrice", b =>
                 {
-                    b.HasOne("TeduCoreApp.Data.Entities.Product", "Product")
+                    b.HasOne("TeduCoreApp.Domain.Entities.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -1427,32 +1524,32 @@ namespace TeduCoreApp.Data.EF.Migrations
                     b.Navigation("Product");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AdvertistmentPage", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AdvertistmentPage", b =>
                 {
                     b.Navigation("AdvertistmentPositions");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.AdvertistmentPosition", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.AdvertistmentPosition", b =>
                 {
                     b.Navigation("Advertistments");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Announcement", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Announcement", b =>
                 {
                     b.Navigation("AnnouncementUsers");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Bill", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Bill", b =>
                 {
                     b.Navigation("BillDetails");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.Blog", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.Blog", b =>
                 {
                     b.Navigation("BlogTags");
                 });
 
-            modelBuilder.Entity("TeduCoreApp.Data.Entities.ProductCategory", b =>
+            modelBuilder.Entity("TeduCoreApp.Domain.Entities.ProductCategory", b =>
                 {
                     b.Navigation("Products");
                 });

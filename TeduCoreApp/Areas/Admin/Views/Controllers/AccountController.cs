@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Identity;
-using TeduCoreApp.Data.Entities;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using TeduCoreApp.Domain.Entities;
 
 namespace TeduCoreApp.Areas.Admin.Views.Controllers
 {
@@ -27,3 +27,12 @@ namespace TeduCoreApp.Areas.Admin.Views.Controllers
 		}
 	}
 }
+
+
+
+//public void Remove(K id)
+//{
+//		var entity = FindById(id);
+//		Remove(entity);
+//}
+

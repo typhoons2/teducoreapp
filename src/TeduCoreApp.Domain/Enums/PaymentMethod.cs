@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeduCoreApp.Data.Enums
+namespace TeduCoreApp.Domain.Enums
 {
 	public enum PaymentMethod
 	{

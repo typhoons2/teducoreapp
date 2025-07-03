@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeduCoreApp.Infrastructure.Interfaces
+namespace TeduCoreApp.Domain.Repositories
 {
 	public interface IRepository<T,K> where T : class
 	{

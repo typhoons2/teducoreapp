@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "D:\\.Net\\TeduCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\teducoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\teducoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|d:\\.net\\teducoreapp\\teducoreapp.application\\implementations\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|solutionrelative:teducoreapp.application\\implementations\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1545CC9F-0067-4D54-9419-24F458B14BDE}|TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj|d:\\.net\\teducoreapp\\teducoreapp.infrastructure\\teducoreapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1545CC9F-0067-4D54-9419-24F458B14BDE}|TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj|solutionrelative:teducoreapp.infrastructure\\teducoreapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|d:\\.net\\teducoreapp\\teducoreapp.application\\viewmodels\\product\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|solutionrelative:teducoreapp.application\\viewmodels\\product\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1545CC9F-0067-4D54-9419-24F458B14BDE}|TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj|d:\\.net\\teducoreapp\\teducoreapp.infrastructure\\persistence\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1545CC9F-0067-4D54-9419-24F458B14BDE}|TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj|solutionrelative:teducoreapp.infrastructure\\persistence\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|d:\\.net\\teducoreapp\\teducoreapp.application\\interfaces\\iproductcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A013FC9F-7CB5-4E29-B713-870085B62614}|TeduCoreApp.Application\\TeduCoreApp.Application.csproj|solutionrelative:teducoreapp.application\\interfaces\\iproductcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D37273F-464B-4FB2-B400-28401CE64B85}|src\\TeduCoreApp.Domain\\TeduCoreApp.Domain.csproj|d:\\.net\\teducoreapp\\src\\teducoreapp.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37273F-464B-4FB2-B400-28401CE64B85}|src\\TeduCoreApp.Domain\\TeduCoreApp.Domain.csproj|solutionrelative:src\\teducoreapp.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D37273F-464B-4FB2-B400-28401CE64B85}|src\\TeduCoreApp.Domain\\TeduCoreApp.Domain.csproj|d:\\.net\\teducoreapp\\src\\teducoreapp.domain\\entities\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37273F-464B-4FB2-B400-28401CE64B85}|src\\TeduCoreApp.Domain\\TeduCoreApp.Domain.csproj|solutionrelative:src\\teducoreapp.domain\\entities\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A81134D-9E5E-4291-889C-9F649C9CA4C4}|TeduCoreApp.Data.EF\\TeduCoreApp.Data.EF.csproj|d:\\.net\\teducoreapp\\teducoreapp.data.ef\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81134D-9E5E-4291-889C-9F649C9CA4C4}|TeduCoreApp.Data.EF\\TeduCoreApp.Data.EF.csproj|solutionrelative:teducoreapp.data.ef\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\areas\\admin\\views\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\areas\\admin\\views\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\wwwroot\\app\\controllers\\product\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\wwwroot\\app\\controllers\\product\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|d:\\.net\\teducoreapp\\teducoreapp\\wwwroot\\app\\controllers\\product-category\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{75A539A1-63F0-4513-B90B-BAA4EADCFCAF}|TeduCoreApp\\TeduCoreApp.csproj|solutionrelative:teducoreapp\\wwwroot\\app\\controllers\\product-category\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Logs\\tedu-20250625.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeduCoreApp\\Logs\\tedu-20250625.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9D37273F-464B-4FB2-B400-28401CE64B85}|src\\TeduCoreApp.Domain\\TeduCoreApp.Domain.csproj|d:\\.net\\teducoreapp\\src\\teducoreapp.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37273F-464B-4FB2-B400-28401CE64B85}|src\\TeduCoreApp.Domain\\TeduCoreApp.Domain.csproj|solutionrelative:src\\teducoreapp.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,139 +50,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemDto.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\ViewModels\\Product\\ItemDto.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp.Application\\ViewModels\\Product\\ItemDto.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\ViewModels\\Product\\ItemDto.cs",
-              "RelativeToolTip": "TeduCoreApp.Application\\ViewModels\\Product\\ItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:34:20.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "tedu-20250625.txt",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Logs\\tedu-20250625.txt",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Logs\\tedu-20250625.txt",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Logs\\tedu-20250625.txt",
-              "RelativeToolTip": "TeduCoreApp\\Logs\\tedu-20250625.txt",
-              "ViewState": "AgIAAFoHAAAAAAAAAAAAAFwHAACeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-25T01:44:44.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductCategoryService.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Interfaces\\IProductCategoryService.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp.Application\\Interfaces\\IProductCategoryService.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Interfaces\\IProductCategoryService.cs",
-              "RelativeToolTip": "TeduCoreApp.Application\\Interfaces\\IProductCategoryService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T00:44:50.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductCategoryRepository.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data.EF\\Repositories\\ProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp.Data.EF\\Repositories\\ProductCategoryRepository.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Data.EF\\Repositories\\ProductCategoryRepository.cs",
-              "RelativeToolTip": "TeduCoreApp.Data.EF\\Repositories\\ProductCategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T13:08:24.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.js",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
-              "RelativeDocumentMoniker": "TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
-              "RelativeToolTip": "TeduCoreApp\\wwwroot\\app\\controllers\\product-category\\index.js",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-24T07:56:27.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
-              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\ProductCategory\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T07:54:37.434Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductCategoryController.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductCategoryController.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductCategoryController.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductCategoryController.cs",
-              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductCategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T07:40:07.624Z",
+              "Title": "TeduCoreApp",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\TeduCoreApp.csproj",
+              "RelativeDocumentMoniker": "TeduCoreApp\\TeduCoreApp.csproj",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\TeduCoreApp.csproj",
+              "RelativeToolTip": "TeduCoreApp\\TeduCoreApp.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T07:08:42.316Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:19:08.874Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductCategoryService.cs",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
-              "RelativeDocumentMoniker": "TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
-              "RelativeToolTip": "TeduCoreApp.Application\\Implementations\\ProductCategoryService.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAYwH8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T06:17:58.85Z",
+              "Title": "TeduCoreApp.Infrastructure",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj",
+              "RelativeToolTip": "TeduCoreApp.Infrastructure\\TeduCoreApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T07:08:07.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "index.js",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
-              "RelativeDocumentMoniker": "TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
-              "RelativeToolTip": "TeduCoreApp\\wwwroot\\app\\controllers\\product\\index.js",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-06-24T05:07:52.468Z"
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Infrastructure\\Persistence\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TeduCoreApp.Infrastructure\\Persistence\\DbContext\\AppDbContext.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp.Infrastructure\\Persistence\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "TeduCoreApp.Infrastructure\\Persistence\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:18:54.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\src\\TeduCoreApp.Domain\\Entities\\Bill.cs",
+              "RelativeDocumentMoniker": "src\\TeduCoreApp.Domain\\Entities\\Bill.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\src\\TeduCoreApp.Domain\\Entities\\Bill.cs",
+              "RelativeToolTip": "src\\TeduCoreApp.Domain\\Entities\\Bill.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:13:33.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\.Net\\TeduCoreApp\\TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "TeduCoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T05:07:34.152Z"
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\src\\TeduCoreApp.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\TeduCoreApp.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\src\\TeduCoreApp.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "src\\TeduCoreApp.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:08:06.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\.Net\\TeduCoreApp\\src\\TeduCoreApp.Domain\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "src\\TeduCoreApp.Domain\\Entities\\AppRole.cs",
+              "ToolTip": "D:\\.Net\\TeduCoreApp\\src\\TeduCoreApp.Domain\\Entities\\AppRole.cs",
+              "RelativeToolTip": "src\\TeduCoreApp.Domain\\Entities\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T03:08:02.856Z",
+              "EditorCaption": ""
             }
           ]
         },
