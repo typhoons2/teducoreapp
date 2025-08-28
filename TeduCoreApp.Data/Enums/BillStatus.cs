@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TeduCoreApp.Data.Enums
+{
+	public enum BillStatus	
+	{
+		New,
+		InProgress,
+		Returned,
+		Canceled,
+		Completed
+	}
+}
